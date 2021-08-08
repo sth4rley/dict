@@ -1,0 +1,5002 @@
+[
+    {
+      "word": "the",
+      "pronounce": "dê",
+      "translation": "o, a, os, as"
+    },
+    {
+      "word": "of",
+      "pronounce": "of",
+      "translation": "de"
+    },
+    {
+      "word": "to",
+      "pronounce": "tchu",
+      "translation": "para"
+    },
+    {
+      "word": "and",
+      "pronounce": "énd",
+      "translation": "e"
+    },
+    {
+      "word": "a",
+      "pronounce": "ei",
+      "translation": "um, uma"
+    },
+    {
+      "word": "in",
+      "pronounce": "im",
+      "translation": "em, dentro"
+    },
+    {
+      "word": "is",
+      "pronounce": "is",
+      "translation": "é"
+    },
+    {
+      "word": "it",
+      "pronounce": "êt",
+      "translation": "este"
+    },
+    {
+      "word": "you",
+      "pronounce": "yuu",
+      "translation": "você"
+    },
+    {
+      "word": "that",
+      "pronounce": "dhét",
+      "translation": "que, aquele"
+    },
+    {
+      "word": "he",
+      "pronounce": "rrii",
+      "translation": "ele"
+    },
+    {
+      "word": "was",
+      "pronounce": "uós",
+      "translation": "era, estava"
+    },
+    {
+      "word": "for",
+      "pronounce": "fór",
+      "translation": "por, para"
+    },
+    {
+      "word": "on",
+      "pronounce": "ón",
+      "translation": "em"
+    },
+    {
+      "word": "are",
+      "pronounce": "ar",
+      "translation": "são, estão"
+    },
+    {
+      "word": "with",
+      "pronounce": "uif",
+      "translation": "com"
+    },
+    {
+      "word": "as",
+      "pronounce": "és",
+      "translation": "como, enquanto"
+    },
+    {
+      "word": "I",
+      "pronounce": "ai",
+      "translation": "eu"
+    },
+    {
+      "word": "his",
+      "pronounce": "rrês",
+      "translation": "seu"
+    },
+    {
+      "word": "they",
+      "pronounce": "dhei",
+      "translation": "eles"
+    },
+    {
+      "word": "be",
+      "pronounce": "bii",
+      "translation": "ser, estar"
+    },
+    {
+      "word": "at",
+      "pronounce": "ét",
+      "translation": "em"
+    },
+    {
+      "word": "one",
+      "pronounce": "uân",
+      "translation": "um"
+    },
+    {
+      "word": "have",
+      "pronounce": "rrév",
+      "translation": "ter"
+    },
+    {
+      "word": "this",
+      "pronounce": "dhês",
+      "translation": "este"
+    },
+    {
+      "word": "from",
+      "pronounce": "frâm",
+      "translation": "de"
+    },
+    {
+      "word": "or",
+      "pronounce": "ór",
+      "translation": "ou"
+    },
+    {
+      "word": "had",
+      "pronounce": "rréd",
+      "translation": "tinha"
+    },
+    {
+      "word": "by",
+      "pronounce": "bai",
+      "translation": "por, em"
+    },
+    {
+      "word": "hot",
+      "pronounce": "rrat",
+      "translation": "quente"
+    },
+    {
+      "word": "word",
+      "pronounce": "uâd",
+      "translation": "palavra"
+    },
+    {
+      "word": "but",
+      "pronounce": "bât",
+      "translation": "mas"
+    },
+    {
+      "word": "what",
+      "pronounce": "uót",
+      "translation": "o-que"
+    },
+    {
+      "word": "some",
+      "pronounce": "sâm",
+      "translation": "algum"
+    },
+    {
+      "word": "we",
+      "pronounce": "uii",
+      "translation": "nós"
+    },
+    {
+      "word": "can",
+      "pronounce": "kén",
+      "translation": "pode, lata"
+    },
+    {
+      "word": "out",
+      "pronounce": "aut",
+      "translation": "fora"
+    },
+    {
+      "word": "other",
+      "pronounce": "âdhâr",
+      "translation": "outro"
+    },
+    {
+      "word": "were",
+      "pronounce": "uâr",
+      "translation": "eram, esavam"
+    },
+    {
+      "word": "all",
+      "pronounce": "ól",
+      "translation": "todo"
+    },
+    {
+      "word": "there",
+      "pronounce": "thér",
+      "translation": "lá"
+    },
+    {
+      "word": "when",
+      "pronounce": "uen",
+      "translation": "quando"
+    },
+    {
+      "word": "up",
+      "pronounce": "âp",
+      "translation": "para-cima"
+    },
+    {
+      "word": "use",
+      "pronounce": "iuz",
+      "translation": "usar"
+    },
+    {
+      "word": "your",
+      "pronounce": "yór",
+      "translation": "seu"
+    },
+    {
+      "word": "how",
+      "pronounce": "rráu",
+      "translation": "como, quão"
+    },
+    {
+      "word": "said",
+      "pronounce": "séd",
+      "translation": "disse"
+    },
+    {
+      "word": "an",
+      "pronounce": "én",
+      "translation": "um, uma"
+    },
+    {
+      "word": "each",
+      "pronounce": "iich",
+      "translation": "cada"
+    },
+    {
+      "word": "she",
+      "pronounce": "shii",
+      "translation": "ela"
+    },
+    {
+      "word": "which",
+      "pronounce": "uêtch",
+      "translation": "qual"
+    },
+    {
+      "word": "do",
+      "pronounce": "duu",
+      "translation": "fazer, mesmo"
+    },
+    {
+      "word": "their",
+      "pronounce": "thér",
+      "translation": "seus"
+    },
+    {
+      "word": "time",
+      "pronounce": "taim",
+      "translation": "tempo, hora"
+    },
+    {
+      "word": "if",
+      "pronounce": "êf",
+      "translation": "se"
+    },
+    {
+      "word": "will",
+      "pronounce": "uêl",
+      "translation": "vai, vontade"
+    },
+    {
+      "word": "way",
+      "pronounce": "uei",
+      "translation": "caminho, jeito"
+    },
+    {
+      "word": "about",
+      "pronounce": "âbaut",
+      "translation": "sobre, quase"
+    },
+    {
+      "word": "many",
+      "pronounce": "méni",
+      "translation": "muitos"
+    },
+    {
+      "word": "then",
+      "pronounce": "dhên",
+      "translation": "então"
+    },
+    {
+      "word": "them",
+      "pronounce": "dhêm",
+      "translation": "deles"
+    },
+    {
+      "word": "write",
+      "pronounce": "rait",
+      "translation": "escrever"
+    },
+    {
+      "word": "would",
+      "pronounce": "uôd",
+      "translation": "deveria"
+    },
+    {
+      "word": "like",
+      "pronounce": "laik",
+      "translation": "como, gostar"
+    },
+    {
+      "word": "so",
+      "pronounce": "sôu",
+      "translation": "assim, tão"
+    },
+    {
+      "word": "these",
+      "pronounce": "dhiiz",
+      "translation": "estes"
+    },
+    {
+      "word": "her",
+      "pronounce": "rrâr",
+      "translation": "dela"
+    },
+    {
+      "word": "long",
+      "pronounce": "lóng",
+      "translation": "longo"
+    },
+    {
+      "word": "make",
+      "pronounce": "meik",
+      "translation": "fazer"
+    },
+    {
+      "word": "thing",
+      "pronounce": "thêng",
+      "translation": "coisa"
+    },
+    {
+      "word": "see",
+      "pronounce": "sii",
+      "translation": "ver"
+    },
+    {
+      "word": "him",
+      "pronounce": "rrêm",
+      "translation": "dele"
+    },
+    {
+      "word": "two",
+      "pronounce": "tuu",
+      "translation": "dois, duas"
+    },
+    {
+      "word": "has",
+      "pronounce": "rrés",
+      "translation": "tem"
+    },
+    {
+      "word": "look",
+      "pronounce": "lôk",
+      "translation": "olhar"
+    },
+    {
+      "word": "more",
+      "pronounce": "mór",
+      "translation": "mais"
+    },
+    {
+      "word": "day",
+      "pronounce": "dei",
+      "translation": "dia"
+    },
+    {
+      "word": "could",
+      "pronounce": "côd",
+      "translation": "poderia"
+    },
+    {
+      "word": "go",
+      "pronounce": "gôu",
+      "translation": "ir"
+    },
+    {
+      "word": "come",
+      "pronounce": "câm",
+      "translation": "vir"
+    },
+    {
+      "word": "did",
+      "pronounce": "dêd",
+      "translation": "fez, mesmo"
+    },
+    {
+      "word": "number",
+      "pronounce": "nâmbâr",
+      "translation": "número"
+    },
+    {
+      "word": "sound",
+      "pronounce": "saund",
+      "translation": "som"
+    },
+    {
+      "word": "no",
+      "pronounce": "nou",
+      "translation": "não"
+    },
+    {
+      "word": "most",
+      "pronounce": "moust",
+      "translation": "mais, maior"
+    },
+    {
+      "word": "people",
+      "pronounce": "piipâl",
+      "translation": "pessoas, povo"
+    },
+    {
+      "word": "my",
+      "pronounce": "mai",
+      "translation": "meu"
+    },
+    {
+      "word": "over",
+      "pronounce": "ouvâr",
+      "translation": "sobre, acima-de"
+    },
+    {
+      "word": "know",
+      "pronounce": "nou",
+      "translation": "saber"
+    },
+    {
+      "word": "water",
+      "pronounce": "uóttâr",
+      "translation": "água"
+    },
+    {
+      "word": "than",
+      "pronounce": "dhén",
+      "translation": "que"
+    },
+    {
+      "word": "call",
+      "pronounce": "cól",
+      "translation": "chamar"
+    },
+    {
+      "word": "first",
+      "pronounce": "fârst",
+      "translation": "primeiro"
+    },
+    {
+      "word": "who",
+      "pronounce": "rruu",
+      "translation": "que"
+    },
+    {
+      "word": "may",
+      "pronounce": "mei",
+      "translation": "maio, pode"
+    },
+    {
+      "word": "down",
+      "pronounce": "daun",
+      "translation": "baixo"
+    },
+    {
+      "word": "side",
+      "pronounce": "said",
+      "translation": "lado"
+    },
+    {
+      "word": "been",
+      "pronounce": "bên",
+      "translation": "sido, estado"
+    },
+    {
+      "word": "now",
+      "pronounce": "nau",
+      "translation": "agora"
+    },
+    {
+      "word": "find",
+      "pronounce": "faind",
+      "translation": "encontrar"
+    },
+    {
+      "word": "any",
+      "pronounce": "éni",
+      "translation": "qualquer"
+    },
+    {
+      "word": "new",
+      "pronounce": "nuu",
+      "translation": "novo"
+    },
+    {
+      "word": "work",
+      "pronounce": "uârk",
+      "translation": "trabalho"
+    },
+    {
+      "word": "part",
+      "pronounce": "part",
+      "translation": "parte"
+    },
+    {
+      "word": "take",
+      "pronounce": "teik",
+      "translation": "pegar"
+    },
+    {
+      "word": "get",
+      "pronounce": "ghét",
+      "translation": "ficar"
+    },
+    {
+      "word": "place",
+      "pronounce": "pleis",
+      "translation": "lugar"
+    },
+    {
+      "word": "made",
+      "pronounce": "meid",
+      "translation": "feito"
+    },
+    {
+      "word": "live",
+      "pronounce": "lêv, laiv",
+      "translation": "viver, vivo"
+    },
+    {
+      "word": "where",
+      "pronounce": "uér",
+      "translation": "onde"
+    },
+    {
+      "word": "after",
+      "pronounce": "éftâr",
+      "translation": "após"
+    },
+    {
+      "word": "back",
+      "pronounce": "bék",
+      "translation": "atrás, costas"
+    },
+    {
+      "word": "little",
+      "pronounce": "lêttâl",
+      "translation": "pequeno, pouco"
+    },
+    {
+      "word": "only",
+      "pronounce": "ounli",
+      "translation": "somente"
+    },
+    {
+      "word": "round",
+      "pronounce": "raund",
+      "translation": "redondo, rodada"
+    },
+    {
+      "word": "man",
+      "pronounce": "mén",
+      "translation": "homem"
+    },
+    {
+      "word": "year",
+      "pronounce": "yiir",
+      "translation": "ano"
+    },
+    {
+      "word": "came",
+      "pronounce": "keim",
+      "translation": "chegado"
+    },
+    {
+      "word": "show",
+      "pronounce": "shou",
+      "translation": "mostrar"
+    },
+    {
+      "word": "every",
+      "pronounce": "evri",
+      "translation": "cada"
+    },
+    {
+      "word": "good",
+      "pronounce": "gôd",
+      "translation": "bom"
+    },
+    {
+      "word": "me",
+      "pronounce": "mii",
+      "translation": "me, eu"
+    },
+    {
+      "word": "give",
+      "pronounce": "ghêv",
+      "translation": "dar"
+    },
+    {
+      "word": "our",
+      "pronounce": "ar",
+      "translation": "nosso"
+    },
+    {
+      "word": "under",
+      "pronounce": "ândâr",
+      "translation": "sob"
+    },
+    {
+      "word": "name",
+      "pronounce": "neim",
+      "translation": "nome"
+    },
+    {
+      "word": "very",
+      "pronounce": "véri",
+      "translation": "muito, absoluto"
+    },
+    {
+      "word": "through",
+      "pronounce": "thruu",
+      "translation": "através-de"
+    },
+    {
+      "word": "just",
+      "pronounce": "jâst",
+      "translation": "justo, só"
+    },
+    {
+      "word": "form",
+      "pronounce": "fórm",
+      "translation": "forma, formulário"
+    },
+    {
+      "word": "sentence",
+      "pronounce": "sêntâns",
+      "translation": "sentença"
+    },
+    {
+      "word": "great",
+      "pronounce": "greit",
+      "translation": "ótimo, excelente, grande"
+    },
+    {
+      "word": "think",
+      "pronounce": "thênk",
+      "translation": "pensar"
+    },
+    {
+      "word": "say",
+      "pronounce": "sei",
+      "translation": "dizer"
+    },
+    {
+      "word": "help",
+      "pronounce": "rrêlp",
+      "translation": "ajudar"
+    },
+    {
+      "word": "low",
+      "pronounce": "lou",
+      "translation": "baixo"
+    },
+    {
+      "word": "line",
+      "pronounce": "lain",
+      "translation": "linha, fila"
+    },
+    {
+      "word": "differ",
+      "pronounce": "dêfâr",
+      "translation": "diferir"
+    },
+    {
+      "word": "turn",
+      "pronounce": "târn",
+      "translation": "tornar, vez"
+    },
+    {
+      "word": "cause",
+      "pronounce": "cóz",
+      "translation": "causa"
+    },
+    {
+      "word": "much",
+      "pronounce": "mâtch",
+      "translation": "muito"
+    },
+    {
+      "word": "mean",
+      "pronounce": "miin",
+      "translation": "meio, significar"
+    },
+    {
+      "word": "before",
+      "pronounce": "bêfór",
+      "translation": "antes"
+    },
+    {
+      "word": "move",
+      "pronounce": "muuv",
+      "translation": "movimento"
+    },
+    {
+      "word": "right",
+      "pronounce": "rait",
+      "translation": "direito"
+    },
+    {
+      "word": "boy",
+      "pronounce": "bói",
+      "translation": "garoto"
+    },
+    {
+      "word": "old",
+      "pronounce": "ould",
+      "translation": "velho"
+    },
+    {
+      "word": "too",
+      "pronounce": "tuu",
+      "translation": "também"
+    },
+    {
+      "word": "same",
+      "pronounce": "seim",
+      "translation": "mesmo"
+    },
+    {
+      "word": "tell",
+      "pronounce": "têl",
+      "translation": "contar"
+    },
+    {
+      "word": "does",
+      "pronounce": "dâz",
+      "translation": "faz, mesmo"
+    },
+    {
+      "word": "set",
+      "pronounce": "sêt",
+      "translation": "conjunto, fixar"
+    },
+    {
+      "word": "three",
+      "pronounce": "thrii",
+      "translation": "três"
+    },
+    {
+      "word": "want",
+      "pronounce": "uânt",
+      "translation": "querer"
+    },
+    {
+      "word": "air",
+      "pronounce": "ér",
+      "translation": "ar"
+    },
+    {
+      "word": "well",
+      "pronounce": "uel",
+      "translation": "bem, poço"
+    },
+    {
+      "word": "also",
+      "pronounce": "ólsou",
+      "translation": "também"
+    },
+    {
+      "word": "play",
+      "pronounce": "plei",
+      "translation": "peça, tocar"
+    },
+    {
+      "word": "small",
+      "pronounce": "smól",
+      "translation": "pequeno"
+    },
+    {
+      "word": "end",
+      "pronounce": "ênd",
+      "translation": "fim, finalizar"
+    },
+    {
+      "word": "put",
+      "pronounce": "pôt",
+      "translation": "por"
+    },
+    {
+      "word": "home",
+      "pronounce": "rroum",
+      "translation": "casa"
+    },
+    {
+      "word": "read",
+      "pronounce": "riid",
+      "translation": "ler, lido"
+    },
+    {
+      "word": "hand",
+      "pronounce": "rrénd",
+      "translation": "mão"
+    },
+    {
+      "word": "port",
+      "pronounce": "pórt",
+      "translation": "porto"
+    },
+    {
+      "word": "large",
+      "pronounce": "larj",
+      "translation": "grande"
+    },
+    {
+      "word": "spell",
+      "pronounce": "spêl",
+      "translation": "soletrar, encanto"
+    },
+    {
+      "word": "add",
+      "pronounce": "éd",
+      "translation": "adicionar"
+    },
+    {
+      "word": "even",
+      "pronounce": "iivân",
+      "translation": "mesmo"
+    },
+    {
+      "word": "land",
+      "pronounce": "lénd",
+      "translation": "terra"
+    },
+    {
+      "word": "here",
+      "pronounce": "rriir",
+      "translation": "aqui"
+    },
+    {
+      "word": "must",
+      "pronounce": "mâst",
+      "translation": "dever"
+    },
+    {
+      "word": "big",
+      "pronounce": "bêg",
+      "translation": "grande"
+    },
+    {
+      "word": "high",
+      "pronounce": "rrai",
+      "translation": "alto"
+    },
+    {
+      "word": "such",
+      "pronounce": "sâtch",
+      "translation": "tal"
+    },
+    {
+      "word": "follow",
+      "pronounce": "falou",
+      "translation": "seguir"
+    },
+    {
+      "word": "act",
+      "pronounce": "ékt",
+      "translation": "ato, agir"
+    },
+    {
+      "word": "why",
+      "pronounce": "uai",
+      "translation": "por-que"
+    },
+    {
+      "word": "ask",
+      "pronounce": "ésk",
+      "translation": "pedir, perguntar"
+    },
+    {
+      "word": "men",
+      "pronounce": "mên",
+      "translation": "homens"
+    },
+    {
+      "word": "change",
+      "pronounce": "tcheinj",
+      "translation": "mudar"
+    },
+    {
+      "word": "went",
+      "pronounce": "uent",
+      "translation": "foi"
+    },
+    {
+      "word": "light",
+      "pronounce": "lait",
+      "translation": "leve, luz"
+    },
+    {
+      "word": "kind",
+      "pronounce": "kaind",
+      "translation": "bom, tipo"
+    },
+    {
+      "word": "off",
+      "pronounce": "óf",
+      "translation": "por, desligado"
+    },
+    {
+      "word": "need",
+      "pronounce": "niid",
+      "translation": "precisar"
+    },
+    {
+      "word": "house",
+      "pronounce": "rraus",
+      "translation": "casa"
+    },
+    {
+      "word": "picture",
+      "pronounce": "pêktchâr",
+      "translation": "foto, filme"
+    },
+    {
+      "word": "try",
+      "pronounce": "trai",
+      "translation": "tentar"
+    },
+    {
+      "word": "us",
+      "pronounce": "âs",
+      "translation": "nos"
+    },
+    {
+      "word": "again",
+      "pronounce": "âghein",
+      "translation": "de-novo"
+    },
+    {
+      "word": "animal",
+      "pronounce": "énâmâl",
+      "translation": "animal"
+    },
+    {
+      "word": "point",
+      "pronounce": "point",
+      "translation": "ponto"
+    },
+    {
+      "word": "mother",
+      "pronounce": "mâdhâr",
+      "translation": "mãe"
+    },
+    {
+      "word": "world",
+      "pronounce": "uârld",
+      "translation": "mundo"
+    },
+    {
+      "word": "near",
+      "pronounce": "niir",
+      "translation": "perto"
+    },
+    {
+      "word": "build",
+      "pronounce": "bêld",
+      "translation": "construir"
+    },
+    {
+      "word": "self",
+      "pronounce": "self",
+      "translation": "próprio, ego"
+    },
+    {
+      "word": "earth",
+      "pronounce": "ârth",
+      "translation": "terra"
+    },
+    {
+      "word": "father",
+      "pronounce": "fódhâr",
+      "translation": "pai"
+    },
+    {
+      "word": "head",
+      "pronounce": "rred",
+      "translation": "cabeça"
+    },
+    {
+      "word": "stand",
+      "pronounce": "sténd",
+      "translation": "permanecer, de-pé, banca"
+    },
+    {
+      "word": "own",
+      "pronounce": "oun",
+      "translation": "próprio"
+    },
+    {
+      "word": "page",
+      "pronounce": "peij",
+      "translation": "página"
+    },
+    {
+      "word": "should",
+      "pronounce": "shôd",
+      "translation": "deveria"
+    },
+    {
+      "word": "country",
+      "pronounce": "cântri",
+      "translation": "país"
+    },
+    {
+      "word": "found",
+      "pronounce": "faund",
+      "translation": "encontrado, fundar"
+    },
+    {
+      "word": "answer",
+      "pronounce": "énsâr",
+      "translation": "resposta"
+    },
+    {
+      "word": "school",
+      "pronounce": "skool",
+      "translation": "escola"
+    },
+    {
+      "word": "grow",
+      "pronounce": "grou",
+      "translation": "crescer"
+    },
+    {
+      "word": "study",
+      "pronounce": "stâdi",
+      "translation": "estudo"
+    },
+    {
+      "word": "still",
+      "pronounce": "stêl",
+      "translation": "até, calmo"
+    },
+    {
+      "word": "learn",
+      "pronounce": "lârn",
+      "translation": "aprender"
+    },
+    {
+      "word": "plant",
+      "pronounce": "plént",
+      "translation": "planta, fábrica"
+    },
+    {
+      "word": "cover",
+      "pronounce": "câvâr",
+      "translation": "cobrir"
+    },
+    {
+      "word": "food",
+      "pronounce": "fuud",
+      "translation": "comida"
+    },
+    {
+      "word": "sun",
+      "pronounce": "sân",
+      "translation": "sol"
+    },
+    {
+      "word": "four",
+      "pronounce": "fór",
+      "translation": "quatro"
+    },
+    {
+      "word": "between",
+      "pronounce": "bituiin",
+      "translation": "entre"
+    },
+    {
+      "word": "state",
+      "pronounce": "steit",
+      "translation": "estado"
+    },
+    {
+      "word": "keep",
+      "pronounce": "kiip",
+      "translation": "guardar"
+    },
+    {
+      "word": "eye",
+      "pronounce": "ai",
+      "translation": "olho"
+    },
+    {
+      "word": "never",
+      "pronounce": "nevâr",
+      "translation": "nunca"
+    },
+    {
+      "word": "last",
+      "pronounce": "lést",
+      "translation": "último, durar"
+    },
+    {
+      "word": "let",
+      "pronounce": "let",
+      "translation": "deixar"
+    },
+    {
+      "word": "thought",
+      "pronounce": "thót",
+      "translation": "pensamento, pensado"
+    },
+    {
+      "word": "city",
+      "pronounce": "cêtti",
+      "translation": "cidade"
+    },
+    {
+      "word": "tree",
+      "pronounce": "trii",
+      "translation": "árvore"
+    },
+    {
+      "word": "cross",
+      "pronounce": "crós",
+      "translation": "cruz, cruzar"
+    },
+    {
+      "word": "farm",
+      "pronounce": "farm",
+      "translation": "fazenda"
+    },
+    {
+      "word": "hard",
+      "pronounce": "rrard",
+      "translation": "duro"
+    },
+    {
+      "word": "start",
+      "pronounce": "start",
+      "translation": "começar"
+    },
+    {
+      "word": "might",
+      "pronounce": "mait",
+      "translation": "poder, poderia"
+    },
+    {
+      "word": "story",
+      "pronounce": "stóri",
+      "translation": "estória, andar(prédio)"
+    },
+    {
+      "word": "saw",
+      "pronounce": "só",
+      "translation": "viu, serra"
+    },
+    {
+      "word": "far",
+      "pronounce": "far",
+      "translation": "longe"
+    },
+    {
+      "word": "sea",
+      "pronounce": "sii",
+      "translation": "mar"
+    },
+    {
+      "word": "draw",
+      "pronounce": "dró",
+      "translation": "arrastar, empate"
+    },
+    {
+      "word": "left",
+      "pronounce": "left",
+      "translation": "esquerda, deixado"
+    },
+    {
+      "word": "late",
+      "pronounce": "leit",
+      "translation": "tarde"
+    },
+    {
+      "word": "run",
+      "pronounce": "rân",
+      "translation": "correr"
+    },
+    {
+      "word": "don't",
+      "pronounce": "dount",
+      "translation": "não"
+    },
+    {
+      "word": "while",
+      "pronounce": "uail",
+      "translation": "enquanto"
+    },
+    {
+      "word": "press",
+      "pronounce": "pres",
+      "translation": "pressão, imprensa"
+    },
+    {
+      "word": "close",
+      "pronounce": "clous",
+      "translation": "fechar"
+    },
+    {
+      "word": "night",
+      "pronounce": "nait",
+      "translation": "noite"
+    },
+    {
+      "word": "real",
+      "pronounce": "riil",
+      "translation": "real"
+    },
+    {
+      "word": "life",
+      "pronounce": "laif",
+      "translation": "vida"
+    },
+    {
+      "word": "few",
+      "pronounce": "fiu",
+      "translation": "alguns"
+    },
+    {
+      "word": "north",
+      "pronounce": "nórth",
+      "translation": "norte"
+    },
+    {
+      "word": "open",
+      "pronounce": "oupân",
+      "translation": "aberto"
+    },
+    {
+      "word": "seem",
+      "pronounce": "siim",
+      "translation": "parecer"
+    },
+    {
+      "word": "together",
+      "pronounce": "tâghedhâr",
+      "translation": "juntos"
+    },
+    {
+      "word": "next",
+      "pronounce": "next",
+      "translation": "próximo"
+    },
+    {
+      "word": "white",
+      "pronounce": "uait",
+      "translation": "branco"
+    },
+    {
+      "word": "children",
+      "pronounce": "tchêldrân",
+      "translation": "crianças"
+    },
+    {
+      "word": "begin",
+      "pronounce": "bêghên",
+      "translation": "começar"
+    },
+    {
+      "word": "got",
+      "pronounce": "gat",
+      "translation": "ficado"
+    },
+    {
+      "word": "walk",
+      "pronounce": "uók",
+      "translation": "andar"
+    },
+    {
+      "word": "example",
+      "pronounce": "igzémpâl",
+      "translation": "exemplo"
+    },
+    {
+      "word": "ease",
+      "pronounce": "iiz",
+      "translation": "facilitar"
+    },
+    {
+      "word": "paper",
+      "pronounce": "peipâr",
+      "translation": "papel"
+    },
+    {
+      "word": "group",
+      "pronounce": "grup",
+      "translation": "grupo"
+    },
+    {
+      "word": "always",
+      "pronounce": "óluêz",
+      "translation": "sempre"
+    },
+    {
+      "word": "music",
+      "pronounce": "miuzêk",
+      "translation": "música"
+    },
+    {
+      "word": "those",
+      "pronounce": "dhouz",
+      "translation": "aqueles"
+    },
+    {
+      "word": "both",
+      "pronounce": "bouth",
+      "translation": "ambos"
+    },
+    {
+      "word": "mark",
+      "pronounce": "mark",
+      "translation": "marcar"
+    },
+    {
+      "word": "often",
+      "pronounce": "ófân",
+      "translation": "muitas-vezes"
+    },
+    {
+      "word": "letter",
+      "pronounce": "lettâr",
+      "translation": "letra, carta"
+    },
+    {
+      "word": "until",
+      "pronounce": "ântêl",
+      "translation": "até"
+    },
+    {
+      "word": "mile",
+      "pronounce": "mail",
+      "translation": "milha"
+    },
+    {
+      "word": "river",
+      "pronounce": "rêvâr",
+      "translation": "rio"
+    },
+    {
+      "word": "car",
+      "pronounce": "car",
+      "translation": "carro"
+    },
+    {
+      "word": "feet",
+      "pronounce": "fiit",
+      "translation": "pés"
+    },
+    {
+      "word": "care",
+      "pronounce": "kér",
+      "translation": "cuidado"
+    },
+    {
+      "word": "second",
+      "pronounce": "secând",
+      "translation": "segundo"
+    },
+    {
+      "word": "book",
+      "pronounce": "bôk",
+      "translation": "livro"
+    },
+    {
+      "word": "carry",
+      "pronounce": "kéri",
+      "translation": "carregar"
+    },
+    {
+      "word": "took",
+      "pronounce": "tôk",
+      "translation": "pego"
+    },
+    {
+      "word": "science",
+      "pronounce": "sains",
+      "translation": "ciência"
+    },
+    {
+      "word": "eat",
+      "pronounce": "iit",
+      "translation": "comer"
+    },
+    {
+      "word": "room",
+      "pronounce": "ruum",
+      "translation": "cômodo, quarto"
+    },
+    {
+      "word": "friend",
+      "pronounce": "frend",
+      "translation": "amigo"
+    },
+    {
+      "word": "sight",
+      "pronounce": "sait",
+      "translation": "visão"
+    },
+    {
+      "word": "began",
+      "pronounce": "bêgén",
+      "translation": "começado"
+    },
+    {
+      "word": "idea",
+      "pronounce": "aidiia",
+      "translation": "idéia"
+    },
+    {
+      "word": "fish",
+      "pronounce": "fêsh",
+      "translation": "peixe, pescar"
+    },
+    {
+      "word": "mountain",
+      "pronounce": "mauntân",
+      "translation": "montanha"
+    },
+    {
+      "word": "stop",
+      "pronounce": "stap",
+      "translation": "parar"
+    },
+    {
+      "word": "once",
+      "pronounce": "uâns",
+      "translation": "uma-vez"
+    },
+    {
+      "word": "base",
+      "pronounce": "beis",
+      "translation": "base"
+    },
+    {
+      "word": "hear",
+      "pronounce": "rriir",
+      "translation": "ouvir"
+    },
+    {
+      "word": "horse",
+      "pronounce": "rrórs",
+      "translation": "cavalo"
+    },
+    {
+      "word": "cut",
+      "pronounce": "cât",
+      "translation": "cortar"
+    },
+    {
+      "word": "sure",
+      "pronounce": "shôr",
+      "translation": "certo"
+    },
+    {
+      "word": "watch",
+      "pronounce": "uótch",
+      "translation": "assistir, relógio"
+    },
+    {
+      "word": "color",
+      "pronounce": "câlâr",
+      "translation": "cor, colorir"
+    },
+    {
+      "word": "face",
+      "pronounce": "feis",
+      "translation": "rosto"
+    },
+    {
+      "word": "wood",
+      "pronounce": "uôd",
+      "translation": "madeira"
+    },
+    {
+      "word": "main",
+      "pronounce": "mein",
+      "translation": "principal"
+    },
+    {
+      "word": "enough",
+      "pronounce": "inâf",
+      "translation": "bastante"
+    },
+    {
+      "word": "plain",
+      "pronounce": "plein",
+      "translation": "plano, simples"
+    },
+    {
+      "word": "girl",
+      "pronounce": "gârl",
+      "translation": "garota"
+    },
+    {
+      "word": "usual",
+      "pronounce": "iuzhuâl",
+      "translation": "usual, comum"
+    },
+    {
+      "word": "young",
+      "pronounce": "yâng",
+      "translation": "jovem"
+    },
+    {
+      "word": "ready",
+      "pronounce": "riidi",
+      "translation": "pronto"
+    },
+    {
+      "word": "above",
+      "pronounce": "âbâv",
+      "translation": "acima"
+    },
+    {
+      "word": "ever",
+      "pronounce": "evâr",
+      "translation": "sempre, já"
+    },
+    {
+      "word": "red",
+      "pronounce": "red",
+      "translation": "vermelho"
+    },
+    {
+      "word": "list",
+      "pronounce": "lêst",
+      "translation": "lista"
+    },
+    {
+      "word": "though",
+      "pronounce": "thou",
+      "translation": "apesar-de"
+    },
+    {
+      "word": "feel",
+      "pronounce": "fiiól",
+      "translation": "sentir, sentimendo"
+    },
+    {
+      "word": "talk",
+      "pronounce": "tók",
+      "translation": "conversar"
+    },
+    {
+      "word": "bird",
+      "pronounce": "bârd",
+      "translation": "pássaro"
+    },
+    {
+      "word": "soon",
+      "pronounce": "suun",
+      "translation": "logo"
+    },
+    {
+      "word": "body",
+      "pronounce": "baddi",
+      "translation": "corpo"
+    },
+    {
+      "word": "dog",
+      "pronounce": "dóg",
+      "translation": "cachorro"
+    },
+    {
+      "word": "family",
+      "pronounce": "fémâli",
+      "translation": "família"
+    },
+    {
+      "word": "direct",
+      "pronounce": "dârekt",
+      "translation": "direto"
+    },
+    {
+      "word": "pose",
+      "pronounce": "pouz",
+      "translation": "posição"
+    },
+    {
+      "word": "leave",
+      "pronounce": "liiv",
+      "translation": "deixar"
+    },
+    {
+      "word": "song",
+      "pronounce": "sóng",
+      "translation": "canção"
+    },
+    {
+      "word": "measure",
+      "pronounce": "mejâr",
+      "translation": "medida"
+    },
+    {
+      "word": "door",
+      "pronounce": "dór",
+      "translation": "porta"
+    },
+    {
+      "word": "product",
+      "pronounce": "pradâkt",
+      "translation": "produto"
+    },
+    {
+      "word": "black",
+      "pronounce": "blék",
+      "translation": "negro"
+    },
+    {
+      "word": "short",
+      "pronounce": "shórt",
+      "translation": "curto"
+    },
+    {
+      "word": "numeral",
+      "pronounce": "nuumârâl",
+      "translation": "numeral"
+    },
+    {
+      "word": "class",
+      "pronounce": "clés",
+      "translation": "classe"
+    },
+    {
+      "word": "wind",
+      "pronounce": "uênd",
+      "translation": "vento"
+    },
+    {
+      "word": "question",
+      "pronounce": "quéschân",
+      "translation": "questão, pergunta"
+    },
+    {
+      "word": "happen",
+      "pronounce": "rrépân",
+      "translation": "acontecer"
+    },
+    {
+      "word": "complete",
+      "pronounce": "câmpliit",
+      "translation": "completo"
+    },
+    {
+      "word": "ship",
+      "pronounce": "shêp",
+      "translation": "navio, embarcar"
+    },
+    {
+      "word": "area",
+      "pronounce": "ériiâ",
+      "translation": "área"
+    },
+    {
+      "word": "half",
+      "pronounce": "rréf",
+      "translation": "metade"
+    },
+    {
+      "word": "rock",
+      "pronounce": "rak",
+      "translation": "roque, rocha"
+    },
+    {
+      "word": "order",
+      "pronounce": "órdâr",
+      "translation": "ordem, pedido"
+    },
+    {
+      "word": "fire",
+      "pronounce": "fair",
+      "translation": "fogo, incêndio, despedir"
+    },
+    {
+      "word": "south",
+      "pronounce": "sauth",
+      "translation": "sul"
+    },
+    {
+      "word": "problem",
+      "pronounce": "prablâm",
+      "translation": "problema"
+    },
+    {
+      "word": "piece",
+      "pronounce": "piis",
+      "translation": "peça, pedaço"
+    },
+    {
+      "word": "told",
+      "pronounce": "tould",
+      "translation": "contado"
+    },
+    {
+      "word": "knew",
+      "pronounce": "nuu",
+      "translation": "sabido"
+    },
+    {
+      "word": "pass",
+      "pronounce": "pés",
+      "translation": "passar"
+    },
+    {
+      "word": "since",
+      "pronounce": "sêns",
+      "translation": "desde"
+    },
+    {
+      "word": "top",
+      "pronounce": "tap",
+      "translation": "topo, principal"
+    },
+    {
+      "word": "whole",
+      "pronounce": "rroul",
+      "translation": "inteiro"
+    },
+    {
+      "word": "king",
+      "pronounce": "kêng",
+      "translation": "rei"
+    },
+    {
+      "word": "space",
+      "pronounce": "speis",
+      "translation": "espaço"
+    },
+    {
+      "word": "heard",
+      "pronounce": "rrârd",
+      "translation": "ouvido"
+    },
+    {
+      "word": "best",
+      "pronounce": "best",
+      "translation": "melhor"
+    },
+    {
+      "word": "hour",
+      "pronounce": "aur",
+      "translation": "hora"
+    },
+    {
+      "word": "better",
+      "pronounce": "bettâr",
+      "translation": "melhor"
+    },
+    {
+      "word": "true",
+      "pronounce": "truu",
+      "translation": "verdadeiro"
+    },
+    {
+      "word": "during",
+      "pronounce": "duurêng",
+      "translation": "durante"
+    },
+    {
+      "word": "hundred",
+      "pronounce": "rrândrâd",
+      "translation": "cem"
+    },
+    {
+      "word": "five",
+      "pronounce": "faiv",
+      "translation": "cinco"
+    },
+    {
+      "word": "remember",
+      "pronounce": "rimembâr",
+      "translation": "lembrar"
+    },
+    {
+      "word": "step",
+      "pronounce": "step",
+      "translation": "passo"
+    },
+    {
+      "word": "early",
+      "pronounce": "ârli",
+      "translation": "cedo"
+    },
+    {
+      "word": "hold",
+      "pronounce": "rrould",
+      "translation": "guardar"
+    },
+    {
+      "word": "west",
+      "pronounce": "uest",
+      "translation": "oeste"
+    },
+    {
+      "word": "ground",
+      "pronounce": "graund",
+      "translation": "terra, amolado"
+    },
+    {
+      "word": "interest",
+      "pronounce": "êntrâst",
+      "translation": "interesse, juros"
+    },
+    {
+      "word": "reach",
+      "pronounce": "riitch",
+      "translation": "alcançar"
+    },
+    {
+      "word": "fast",
+      "pronounce": "fést",
+      "translation": "rápido"
+    },
+    {
+      "word": "verb",
+      "pronounce": "vârb",
+      "translation": "verbo"
+    },
+    {
+      "word": "sing",
+      "pronounce": "sêng",
+      "translation": "cantar"
+    },
+    {
+      "word": "listen",
+      "pronounce": "lêssân",
+      "translation": "ouvir"
+    },
+    {
+      "word": "six",
+      "pronounce": "sêks",
+      "translation": "seis"
+    },
+    {
+      "word": "table",
+      "pronounce": "teibâl",
+      "translation": "mesa, tabela"
+    },
+    {
+      "word": "travel",
+      "pronounce": "trévâl",
+      "translation": "viajar"
+    },
+    {
+      "word": "less",
+      "pronounce": "les",
+      "translation": "menos"
+    },
+    {
+      "word": "morning",
+      "pronounce": "mórnên",
+      "translation": "manhã"
+    },
+    {
+      "word": "ten",
+      "pronounce": "ten",
+      "translation": "dez"
+    },
+    {
+      "word": "simple",
+      "pronounce": "sêmpâl",
+      "translation": "simples"
+    },
+    {
+      "word": "several",
+      "pronounce": "sevrâl",
+      "translation": "vários"
+    },
+    {
+      "word": "vowel",
+      "pronounce": "vaul",
+      "translation": "vogal"
+    },
+    {
+      "word": "toward",
+      "pronounce": "tuuard",
+      "translation": "para"
+    },
+    {
+      "word": "war",
+      "pronounce": "uar",
+      "translation": "guerra"
+    },
+    {
+      "word": "lay",
+      "pronounce": "lei",
+      "translation": "deitar, amador"
+    },
+    {
+      "word": "against",
+      "pronounce": "âghenst",
+      "translation": "contra"
+    },
+    {
+      "word": "pattern",
+      "pronounce": "péttârn",
+      "translation": "padrão"
+    },
+    {
+      "word": "slow",
+      "pronounce": "slou",
+      "translation": "devagar"
+    },
+    {
+      "word": "center",
+      "pronounce": "centâr",
+      "translation": "centro"
+    },
+    {
+      "word": "love",
+      "pronounce": "lâv",
+      "translation": "amor, amar"
+    },
+    {
+      "word": "person",
+      "pronounce": "pârsân",
+      "translation": "pessoa"
+    },
+    {
+      "word": "money",
+      "pronounce": "mâni",
+      "translation": "dinheiro"
+    },
+    {
+      "word": "serve",
+      "pronounce": "sârv",
+      "translation": "servir"
+    },
+    {
+      "word": "appear",
+      "pronounce": "âpiir",
+      "translation": "aparecer"
+    },
+    {
+      "word": "road",
+      "pronounce": "roud",
+      "translation": "estrada"
+    },
+    {
+      "word": "map",
+      "pronounce": "mép",
+      "translation": "mapa"
+    },
+    {
+      "word": "rain",
+      "pronounce": "rein",
+      "translation": "chuva"
+    },
+    {
+      "word": "rule",
+      "pronounce": "ruul",
+      "translation": "régua, regra"
+    },
+    {
+      "word": "govern",
+      "pronounce": "gâvârn",
+      "translation": "governar"
+    },
+    {
+      "word": "pull",
+      "pronounce": "pôl",
+      "translation": "puxar"
+    },
+    {
+      "word": "cold",
+      "pronounce": "could",
+      "translation": "frio"
+    },
+    {
+      "word": "notice",
+      "pronounce": "nottâs",
+      "translation": "aviso"
+    },
+    {
+      "word": "voice",
+      "pronounce": "vois",
+      "translation": "voz"
+    },
+    {
+      "word": "unit",
+      "pronounce": "iunât",
+      "translation": "unidade"
+    },
+    {
+      "word": "power",
+      "pronounce": "pauâr",
+      "translation": "poder, força"
+    },
+    {
+      "word": "town",
+      "pronounce": "taun",
+      "translation": "municipal"
+    },
+    {
+      "word": "fine",
+      "pronounce": "fain",
+      "translation": "bom, excelente"
+    },
+    {
+      "word": "certain",
+      "pronounce": "sârtân",
+      "translation": "certo"
+    },
+    {
+      "word": "fly",
+      "pronounce": "flai",
+      "translation": "voar, mosca"
+    },
+    {
+      "word": "fall",
+      "pronounce": "fól",
+      "translation": "cair, queda, outono"
+    },
+    {
+      "word": "lead",
+      "pronounce": "liid",
+      "translation": "levar, chumbo"
+    },
+    {
+      "word": "cry",
+      "pronounce": "crai",
+      "translation": "choro, chorar"
+    },
+    {
+      "word": "dark",
+      "pronounce": "dark",
+      "translation": "escuro"
+    },
+    {
+      "word": "machine",
+      "pronounce": "mâshiin",
+      "translation": "máquina"
+    },
+    {
+      "word": "note",
+      "pronounce": "nout",
+      "translation": "anotar"
+    },
+    {
+      "word": "wait",
+      "pronounce": "ueit",
+      "translation": "esperar"
+    },
+    {
+      "word": "plan",
+      "pronounce": "plén",
+      "translation": "plano"
+    },
+    {
+      "word": "figure",
+      "pronounce": "fêghiâr",
+      "translation": "figura, imaginar"
+    },
+    {
+      "word": "star",
+      "pronounce": "star",
+      "translation": "estrela"
+    },
+    {
+      "word": "box",
+      "pronounce": "baks",
+      "translation": "caixa"
+    },
+    {
+      "word": "noun",
+      "pronounce": "naun",
+      "translation": "substantivo"
+    },
+    {
+      "word": "field",
+      "pronounce": "fiild",
+      "translation": "campo"
+    },
+    {
+      "word": "rest",
+      "pronounce": "rest",
+      "translation": "resto, descanso"
+    },
+    {
+      "word": "correct",
+      "pronounce": "cârekt",
+      "translation": "correto"
+    },
+    {
+      "word": "able",
+      "pronounce": "eibâl",
+      "translation": "capaz"
+    },
+    {
+      "word": "pound",
+      "pronounce": "paund",
+      "translation": "libra"
+    },
+    {
+      "word": "done",
+      "pronounce": "dân",
+      "translation": "feito"
+    },
+    {
+      "word": "beauty",
+      "pronounce": "biutti",
+      "translation": "beleza"
+    },
+    {
+      "word": "drive",
+      "pronounce": "draiv",
+      "translation": "direção, dirigir"
+    },
+    {
+      "word": "stood",
+      "pronounce": "stud",
+      "translation": "permanecido"
+    },
+    {
+      "word": "contain",
+      "pronounce": "cântein",
+      "translation": "conter"
+    },
+    {
+      "word": "front",
+      "pronounce": "frânt",
+      "translation": "frente"
+    },
+    {
+      "word": "teach",
+      "pronounce": "tiitch",
+      "translation": "ensinar"
+    },
+    {
+      "word": "week",
+      "pronounce": "uiik",
+      "translation": "semana"
+    },
+    {
+      "word": "final",
+      "pronounce": "fainâl",
+      "translation": "final"
+    },
+    {
+      "word": "gave",
+      "pronounce": "gheiv",
+      "translation": "dado"
+    },
+    {
+      "word": "green",
+      "pronounce": "griin",
+      "translation": "verde"
+    },
+    {
+      "word": "oh",
+      "pronounce": "ou",
+      "translation": "ó"
+    },
+    {
+      "word": "quick",
+      "pronounce": "quêk",
+      "translation": "rápido"
+    },
+    {
+      "word": "develop",
+      "pronounce": "dêvelâp",
+      "translation": "desenvolver"
+    },
+    {
+      "word": "ocean",
+      "pronounce": "oushân",
+      "translation": "oceano"
+    },
+    {
+      "word": "warm",
+      "pronounce": "uórm",
+      "translation": "quente"
+    },
+    {
+      "word": "free",
+      "pronounce": "frii",
+      "translation": "livre, grátis"
+    },
+    {
+      "word": "minute",
+      "pronounce": "mênât",
+      "translation": "minuto"
+    },
+    {
+      "word": "strong",
+      "pronounce": "stróng",
+      "translation": "forte"
+    },
+    {
+      "word": "special",
+      "pronounce": "speshâl",
+      "translation": "especial"
+    },
+    {
+      "word": "mind",
+      "pronounce": "maind",
+      "translation": "mente, importar-se"
+    },
+    {
+      "word": "behind",
+      "pronounce": "bêrraind",
+      "translation": "atrás"
+    },
+    {
+      "word": "clear",
+      "pronounce": "cliir",
+      "translation": "claro"
+    },
+    {
+      "word": "tail",
+      "pronounce": "teil",
+      "translation": "rabo"
+    },
+    {
+      "word": "produce",
+      "pronounce": "prâdus",
+      "translation": "produção"
+    },
+    {
+      "word": "fact",
+      "pronounce": "fékt",
+      "translation": "fato"
+    },
+    {
+      "word": "street",
+      "pronounce": "striit",
+      "translation": "rua"
+    },
+    {
+      "word": "inch",
+      "pronounce": "êntch",
+      "translation": "polegada"
+    },
+    {
+      "word": "multiply",
+      "pronounce": "mâltâplai",
+      "translation": "multiplicar"
+    },
+    {
+      "word": "nothing",
+      "pronounce": "nâthêng",
+      "translation": "nada"
+    },
+    {
+      "word": "course",
+      "pronounce": "córs",
+      "translation": "curso"
+    },
+    {
+      "word": "stay",
+      "pronounce": "stei",
+      "translation": "ficar"
+    },
+    {
+      "word": "wheel",
+      "pronounce": "uiil",
+      "translation": "roda"
+    },
+    {
+      "word": "full",
+      "pronounce": "fôl",
+      "translation": "cheio"
+    },
+    {
+      "word": "force",
+      "pronounce": "fórs",
+      "translation": "força, forçar"
+    },
+    {
+      "word": "blue",
+      "pronounce": "bluu",
+      "translation": "azul"
+    },
+    {
+      "word": "object",
+      "pronounce": "âbjêkt",
+      "translation": "objeto"
+    },
+    {
+      "word": "decide",
+      "pronounce": "dêsaid",
+      "translation": "decidir"
+    },
+    {
+      "word": "surface",
+      "pronounce": "sârfâs",
+      "translation": "superficie"
+    },
+    {
+      "word": "deep",
+      "pronounce": "diip",
+      "translation": "profundo"
+    },
+    {
+      "word": "moon",
+      "pronounce": "muun",
+      "translation": "lua"
+    },
+    {
+      "word": "island",
+      "pronounce": "ailând",
+      "translation": "ilha"
+    },
+    {
+      "word": "foot",
+      "pronounce": "fuut",
+      "translation": "pé"
+    },
+    {
+      "word": "system",
+      "pronounce": "sêstâm",
+      "translation": "sistema"
+    },
+    {
+      "word": "busy",
+      "pronounce": "bêzi",
+      "translation": "ocupado"
+    },
+    {
+      "word": "test",
+      "pronounce": "test",
+      "translation": "teste"
+    },
+    {
+      "word": "record",
+      "pronounce": "recârd",
+      "translation": "recorde, gravar, registro"
+    },
+    {
+      "word": "boat",
+      "pronounce": "bout",
+      "translation": "barco"
+    },
+    {
+      "word": "common",
+      "pronounce": "camân",
+      "translation": "comum"
+    },
+    {
+      "word": "gold",
+      "pronounce": "gould",
+      "translation": "ouro"
+    },
+    {
+      "word": "possible",
+      "pronounce": "pasâbâl",
+      "translation": "possível"
+    },
+    {
+      "word": "plane",
+      "pronounce": "plein",
+      "translation": "avião"
+    },
+    {
+      "word": "stead",
+      "pronounce": "sted",
+      "translation": "local"
+    },
+    {
+      "word": "dry",
+      "pronounce": "drai",
+      "translation": "seco"
+    },
+    {
+      "word": "wonder",
+      "pronounce": "uândâr",
+      "translation": "admirar"
+    },
+    {
+      "word": "laugh",
+      "pronounce": "léf",
+      "translation": "rir"
+    },
+    {
+      "word": "thousand",
+      "pronounce": "thauzând",
+      "translation": "mil"
+    },
+    {
+      "word": "ago",
+      "pronounce": "âgou",
+      "translation": "atrás"
+    },
+    {
+      "word": "ran",
+      "pronounce": "rén",
+      "translation": "corrido"
+    },
+    {
+      "word": "check",
+      "pronounce": "tchek",
+      "translation": "cheque, checagem"
+    },
+    {
+      "word": "game",
+      "pronounce": "gheim",
+      "translation": "jogo"
+    },
+    {
+      "word": "shape",
+      "pronounce": "sheip",
+      "translation": "forma"
+    },
+    {
+      "word": "equate",
+      "pronounce": "iiqueit",
+      "translation": "equacionar"
+    },
+    {
+      "word": "miss",
+      "pronounce": "mês",
+      "translation": "sentir, senhorita"
+    },
+    {
+      "word": "brought",
+      "pronounce": "brót",
+      "translation": "trazido"
+    },
+    {
+      "word": "heat",
+      "pronounce": "rriit",
+      "translation": "calor"
+    },
+    {
+      "word": "snow",
+      "pronounce": "snou",
+      "translation": "neve"
+    },
+    {
+      "word": "tire",
+      "pronounce": "tair",
+      "translation": "pneu, cansar"
+    },
+    {
+      "word": "bring",
+      "pronounce": "brêng",
+      "translation": "trazer"
+    },
+    {
+      "word": "yes",
+      "pronounce": "yes",
+      "translation": "sim"
+    },
+    {
+      "word": "distant",
+      "pronounce": "dêstânt",
+      "translation": "distante"
+    },
+    {
+      "word": "fill",
+      "pronounce": "fêl",
+      "translation": "encher"
+    },
+    {
+      "word": "east",
+      "pronounce": "iist",
+      "translation": "leste"
+    },
+    {
+      "word": "paint",
+      "pronounce": "peint",
+      "translation": "pintar"
+    },
+    {
+      "word": "language",
+      "pronounce": "lénguêj",
+      "translation": "língua"
+    },
+    {
+      "word": "among",
+      "pronounce": "âmâng",
+      "translation": "entre"
+    },
+    {
+      "word": "grand",
+      "pronounce": "grénd",
+      "translation": "grandioso"
+    },
+    {
+      "word": "ball",
+      "pronounce": "ból",
+      "translation": "bola"
+    },
+    {
+      "word": "yet",
+      "pronounce": "yet",
+      "translation": "ainda, já"
+    },
+    {
+      "word": "wave",
+      "pronounce": "ueiv",
+      "translation": "onda"
+    },
+    {
+      "word": "drop",
+      "pronounce": "drap",
+      "translation": "gota"
+    },
+    {
+      "word": "heart",
+      "pronounce": "rrórt",
+      "translation": "coração"
+    },
+    {
+      "word": "am",
+      "pronounce": "ém",
+      "translation": "sou, estou"
+    },
+    {
+      "word": "present",
+      "pronounce": "prezânt",
+      "translation": "presente"
+    },
+    {
+      "word": "heavy",
+      "pronounce": "rrevi",
+      "translation": "pesado"
+    },
+    {
+      "word": "dance",
+      "pronounce": "déns",
+      "translation": "dança"
+    },
+    {
+      "word": "engine",
+      "pronounce": "enjân",
+      "translation": "motor"
+    },
+    {
+      "word": "position",
+      "pronounce": "pâzêshãn",
+      "translation": "posição"
+    },
+    {
+      "word": "arm",
+      "pronounce": "arm",
+      "translation": "braço"
+    },
+    {
+      "word": "wide",
+      "pronounce": "uaid",
+      "translation": "amplo"
+    },
+    {
+      "word": "sail",
+      "pronounce": "seil",
+      "translation": "vela(navio)"
+    },
+    {
+      "word": "material",
+      "pronounce": "mâtiiriâl",
+      "translation": "material"
+    },
+    {
+      "word": "size",
+      "pronounce": "saiz",
+      "translation": "tamanho"
+    },
+    {
+      "word": "vary",
+      "pronounce": "véri",
+      "translation": "variar"
+    },
+    {
+      "word": "settle",
+      "pronounce": "settâl",
+      "translation": "estabelecer"
+    },
+    {
+      "word": "speak",
+      "pronounce": "spiik",
+      "translation": "falar"
+    },
+    {
+      "word": "weight",
+      "pronounce": "ueit",
+      "translation": "peso"
+    },
+    {
+      "word": "general",
+      "pronounce": "jenral",
+      "translation": "general, geral"
+    },
+    {
+      "word": "ice",
+      "pronounce": "ais",
+      "translation": "gelo"
+    },
+    {
+      "word": "matter",
+      "pronounce": "méttâr",
+      "translation": "matéria, importar-se"
+    },
+    {
+      "word": "circle",
+      "pronounce": "sârkâl",
+      "translation": "círculo"
+    },
+    {
+      "word": "pair",
+      "pronounce": "pér",
+      "translation": "par"
+    },
+    {
+      "word": "include",
+      "pronounce": "ênclud",
+      "translation": "incluir"
+    },
+    {
+      "word": "divide",
+      "pronounce": "dêvaid",
+      "translation": "dividir"
+    },
+    {
+      "word": "syllable",
+      "pronounce": "sêlâbâl",
+      "translation": "sílaba"
+    },
+    {
+      "word": "felt",
+      "pronounce": "feólt",
+      "translation": "sentido"
+    },
+    {
+      "word": "perhaps",
+      "pronounce": "pârhépps",
+      "translation": "talvez"
+    },
+    {
+      "word": "pick",
+      "pronounce": "pêk",
+      "translation": "escolher, apanhar"
+    },
+    {
+      "word": "sudden",
+      "pronounce": "sâdân",
+      "translation": "imprevisto"
+    },
+    {
+      "word": "count",
+      "pronounce": "caunt",
+      "translation": "contar, contagem, conde"
+    },
+    {
+      "word": "square",
+      "pronounce": "squér",
+      "translation": "quadrado, praça"
+    },
+    {
+      "word": "reason",
+      "pronounce": "riizân",
+      "translation": "razão"
+    },
+    {
+      "word": "length",
+      "pronounce": "lenth",
+      "translation": "comprimento"
+    },
+    {
+      "word": "represent",
+      "pronounce": "reprêzent",
+      "translation": "representar"
+    },
+    {
+      "word": "art",
+      "pronounce": "art",
+      "translation": "arte"
+    },
+    {
+      "word": "subject",
+      "pronounce": "sâbjêkt",
+      "translation": "sujeito, assunto"
+    },
+    {
+      "word": "region",
+      "pronounce": "riijân",
+      "translation": "região"
+    },
+    {
+      "word": "energy",
+      "pronounce": "enârji",
+      "translation": "energia"
+    },
+    {
+      "word": "hunt",
+      "pronounce": "rrânt",
+      "translation": "caçar"
+    },
+    {
+      "word": "probable",
+      "pronounce": "prabâbâl",
+      "translation": "provável"
+    },
+    {
+      "word": "bed",
+      "pronounce": "bed",
+      "translation": "cama"
+    },
+    {
+      "word": "brother",
+      "pronounce": "brâdhâr",
+      "translation": "irmão"
+    },
+    {
+      "word": "egg",
+      "pronounce": "eg",
+      "translation": "ovo"
+    },
+    {
+      "word": "ride",
+      "pronounce": "raid",
+      "translation": "passeio"
+    },
+    {
+      "word": "cell",
+      "pronounce": "ceól",
+      "translation": "cela, célula"
+    },
+    {
+      "word": "believe",
+      "pronounce": "bêliiv",
+      "translation": "acreditar"
+    },
+    {
+      "word": "fraction",
+      "pronounce": "frécshân",
+      "translation": "fração"
+    },
+    {
+      "word": "forest",
+      "pronounce": "fórâst",
+      "translation": "floresta"
+    },
+    {
+      "word": "sit",
+      "pronounce": "sêt",
+      "translation": "sentar"
+    },
+    {
+      "word": "race",
+      "pronounce": "reis",
+      "translation": "raça, corrida"
+    },
+    {
+      "word": "window",
+      "pronounce": "uêndou",
+      "translation": "janela"
+    },
+    {
+      "word": "store",
+      "pronounce": "stór",
+      "translation": "armazém"
+    },
+    {
+      "word": "summer",
+      "pronounce": "sâmâr",
+      "translation": "verão"
+    },
+    {
+      "word": "train",
+      "pronounce": "trêin",
+      "translation": "trem, treinar"
+    },
+    {
+      "word": "sleep",
+      "pronounce": "sliip",
+      "translation": "dormir"
+    },
+    {
+      "word": "prove",
+      "pronounce": "pruuv",
+      "translation": "provar"
+    },
+    {
+      "word": "lone",
+      "pronounce": "loun",
+      "translation": "só"
+    },
+    {
+      "word": "leg",
+      "pronounce": "leg",
+      "translation": "perna"
+    },
+    {
+      "word": "exercise",
+      "pronounce": "eksârsaiz",
+      "translation": "exercício"
+    },
+    {
+      "word": "wall",
+      "pronounce": "uól",
+      "translation": "parede"
+    },
+    {
+      "word": "catch",
+      "pronounce": "kétch",
+      "translation": "pegar"
+    },
+    {
+      "word": "mount",
+      "pronounce": "maunt",
+      "translation": "monte, montar"
+    },
+    {
+      "word": "wish",
+      "pronounce": "uêsh",
+      "translation": "desejo"
+    },
+    {
+      "word": "sky",
+      "pronounce": "skai",
+      "translation": "céu"
+    },
+    {
+      "word": "board",
+      "pronounce": "bórd",
+      "translation": "quadro"
+    },
+    {
+      "word": "joy",
+      "pronounce": "jói",
+      "translation": "alegria"
+    },
+    {
+      "word": "winter",
+      "pronounce": "uênttâr",
+      "translation": "inverno"
+    },
+    {
+      "word": "sat",
+      "pronounce": "sét",
+      "translation": "sentado"
+    },
+    {
+      "word": "written",
+      "pronounce": "rêtân",
+      "translation": "escrito"
+    },
+    {
+      "word": "wild",
+      "pronounce": "uaild",
+      "translation": "selvagem"
+    },
+    {
+      "word": "instrument",
+      "pronounce": "ênstrâmânt",
+      "translation": "instrumento"
+    },
+    {
+      "word": "kept",
+      "pronounce": "kept",
+      "translation": "guardado"
+    },
+    {
+      "word": "glass",
+      "pronounce": "glés",
+      "translation": "vidro"
+    },
+    {
+      "word": "grass",
+      "pronounce": "grés",
+      "translation": "grama"
+    },
+    {
+      "word": "cow",
+      "pronounce": "cau",
+      "translation": "vaca"
+    },
+    {
+      "word": "job",
+      "pronounce": "jáb",
+      "translation": "trabalho, jó"
+    },
+    {
+      "word": "edge",
+      "pronounce": "ej",
+      "translation": "canto"
+    },
+    {
+      "word": "sign",
+      "pronounce": "sain",
+      "translation": "sinal"
+    },
+    {
+      "word": "visit",
+      "pronounce": "vêzât",
+      "translation": "visita"
+    },
+    {
+      "word": "past",
+      "pronounce": "pést",
+      "translation": "passado"
+    },
+    {
+      "word": "soft",
+      "pronounce": "saft",
+      "translation": "macio"
+    },
+    {
+      "word": "fun",
+      "pronounce": "fân",
+      "translation": "alegria"
+    },
+    {
+      "word": "bright",
+      "pronounce": "brait",
+      "translation": "claro"
+    },
+    {
+      "word": "gas",
+      "pronounce": "ghés",
+      "translation": "gás, gasolina"
+    },
+    {
+      "word": "weather",
+      "pronounce": "uedhâr",
+      "translation": "tempo"
+    },
+    {
+      "word": "month",
+      "pronounce": "mânt",
+      "translation": "mês"
+    },
+    {
+      "word": "million",
+      "pronounce": "mêliân",
+      "translation": "milhão"
+    },
+    {
+      "word": "bear",
+      "pronounce": "bér",
+      "translation": "urso, carregar"
+    },
+    {
+      "word": "finish",
+      "pronounce": "fênish",
+      "translation": "fim, finalizar"
+    },
+    {
+      "word": "happy",
+      "pronounce": "rrépi",
+      "translation": "feliz"
+    },
+    {
+      "word": "hope",
+      "pronounce": "rroup",
+      "translation": "esperança"
+    },
+    {
+      "word": "flower",
+      "pronounce": "flauâr",
+      "translation": "flor"
+    },
+    {
+      "word": "clothe",
+      "pronounce": "cloudh",
+      "translation": "vestir"
+    },
+    {
+      "word": "strange",
+      "pronounce": "streindj",
+      "translation": "estranho"
+    },
+    {
+      "word": "gone",
+      "pronounce": "gón",
+      "translation": "ido"
+    },
+    {
+      "word": "jump",
+      "pronounce": "jâmp",
+      "translation": "pular"
+    },
+    {
+      "word": "baby",
+      "pronounce": "beibi",
+      "translation": "bebê"
+    },
+    {
+      "word": "eight",
+      "pronounce": "eit",
+      "translation": "oito"
+    },
+    {
+      "word": "village",
+      "pronounce": "vêlâj",
+      "translation": "vila"
+    },
+    {
+      "word": "meet",
+      "pronounce": "miit",
+      "translation": "encontrar"
+    },
+    {
+      "word": "root",
+      "pronounce": "ruut",
+      "translation": "raiz"
+    },
+    {
+      "word": "buy",
+      "pronounce": "bai",
+      "translation": "comprar"
+    },
+    {
+      "word": "raise",
+      "pronounce": "reiz",
+      "translation": "levantar"
+    },
+    {
+      "word": "solve",
+      "pronounce": "soulv",
+      "translation": "resolver"
+    },
+    {
+      "word": "metal",
+      "pronounce": "mettâl",
+      "translation": "metal"
+    },
+    {
+      "word": "whether",
+      "pronounce": "uedhâr",
+      "translation": "se"
+    },
+    {
+      "word": "push",
+      "pronounce": "pôsh",
+      "translation": "empurrar, iniciativa"
+    },
+    {
+      "word": "seven",
+      "pronounce": "sevân",
+      "translation": "sete"
+    },
+    {
+      "word": "paragraph",
+      "pronounce": "pérâgréf",
+      "translation": "parágrafo"
+    },
+    {
+      "word": "third",
+      "pronounce": "thârd",
+      "translation": "terceiro"
+    },
+    {
+      "word": "shall",
+      "pronounce": "shél",
+      "translation": "vai"
+    },
+    {
+      "word": "held",
+      "pronounce": "rreld",
+      "translation": "guardado"
+    },
+    {
+      "word": "hair",
+      "pronounce": "rrér",
+      "translation": "cabelo"
+    },
+    {
+      "word": "describe",
+      "pronounce": "dêcraib",
+      "translation": "descrever"
+    },
+    {
+      "word": "cook",
+      "pronounce": "côk",
+      "translation": "cozinhar"
+    },
+    {
+      "word": "floor",
+      "pronounce": "flór",
+      "translation": "chão, derrotar"
+    },
+    {
+      "word": "either",
+      "pronounce": "aidhâr",
+      "translation": "um, ou outro, também"
+    },
+    {
+      "word": "result",
+      "pronounce": "rêzâlt",
+      "translation": "resultado"
+    },
+    {
+      "word": "burn",
+      "pronounce": "bârn",
+      "translation": "queimar"
+    },
+    {
+      "word": "hill",
+      "pronounce": "rrêl",
+      "translation": "colina"
+    },
+    {
+      "word": "safe",
+      "pronounce": "seif",
+      "translation": "seguro, cofre"
+    },
+    {
+      "word": "cat",
+      "pronounce": "két",
+      "translation": "gato"
+    },
+    {
+      "word": "century",
+      "pronounce": "centri",
+      "translation": "século"
+    },
+    {
+      "word": "consider",
+      "pronounce": "cânsêdâr",
+      "translation": "considerar"
+    },
+    {
+      "word": "type",
+      "pronounce": "taip",
+      "translation": "tipo, datilografar"
+    },
+    {
+      "word": "law",
+      "pronounce": "ló",
+      "translation": "lei"
+    },
+    {
+      "word": "bit",
+      "pronounce": "bêt",
+      "translation": "pouco, broca"
+    },
+    {
+      "word": "coast",
+      "pronounce": "coust",
+      "translation": "costa, litoral"
+    },
+    {
+      "word": "copy",
+      "pronounce": "capi",
+      "translation": "copiar"
+    },
+    {
+      "word": "phrase",
+      "pronounce": "freiz",
+      "translation": "frase"
+    },
+    {
+      "word": "silent",
+      "pronounce": "sailânt",
+      "translation": "silencio"
+    },
+    {
+      "word": "tall",
+      "pronounce": "tól",
+      "translation": "alto(pessoa)"
+    },
+    {
+      "word": "sand",
+      "pronounce": "sénd",
+      "translation": "areia"
+    },
+    {
+      "word": "soil",
+      "pronounce": "sóil",
+      "translation": "solo"
+    },
+    {
+      "word": "roll",
+      "pronounce": "rôl",
+      "translation": "giro, lista"
+    },
+    {
+      "word": "temperature",
+      "pronounce": "temprâchâr",
+      "translation": "temperatura"
+    },
+    {
+      "word": "finger",
+      "pronounce": "fêngâr",
+      "translation": "dedo"
+    },
+    {
+      "word": "industry",
+      "pronounce": "êndâstri",
+      "translation": "indústria"
+    },
+    {
+      "word": "value",
+      "pronounce": "véliu",
+      "translation": "valor"
+    },
+    {
+      "word": "fight",
+      "pronounce": "fait",
+      "translation": "luta"
+    },
+    {
+      "word": "lie",
+      "pronounce": "lai",
+      "translation": "deitar, mentir"
+    },
+    {
+      "word": "beat",
+      "pronounce": "biit",
+      "translation": "bater"
+    },
+    {
+      "word": "excite",
+      "pronounce": "iksait",
+      "translation": "instigar"
+    },
+    {
+      "word": "natural",
+      "pronounce": "nétchârâl",
+      "translation": "natural"
+    },
+    {
+      "word": "view",
+      "pronounce": "viu",
+      "translation": "vista"
+    },
+    {
+      "word": "sense",
+      "pronounce": "sens",
+      "translation": "sentido"
+    },
+    {
+      "word": "ear",
+      "pronounce": "iir",
+      "translation": "orelha, espiga"
+    },
+    {
+      "word": "else",
+      "pronounce": "els",
+      "translation": "outro"
+    },
+    {
+      "word": "quite",
+      "pronounce": "quait",
+      "translation": "muito"
+    },
+    {
+      "word": "broke",
+      "pronounce": "brouk",
+      "translation": "quebrado"
+    },
+    {
+      "word": "case",
+      "pronounce": "keis",
+      "translation": "caso, embalagem"
+    },
+    {
+      "word": "middle",
+      "pronounce": "mêdâl",
+      "translation": "meio"
+    },
+    {
+      "word": "kill",
+      "pronounce": "kêl",
+      "translation": "matar"
+    },
+    {
+      "word": "son",
+      "pronounce": "sân",
+      "translation": "filho"
+    },
+    {
+      "word": "lake",
+      "pronounce": "leik",
+      "translation": "lago"
+    },
+    {
+      "word": "moment",
+      "pronounce": "moumânt",
+      "translation": "momento"
+    },
+    {
+      "word": "scale",
+      "pronounce": "skeil",
+      "translation": "escada, escala, escama"
+    },
+    {
+      "word": "loud",
+      "pronounce": "laud",
+      "translation": "alto(som)"
+    },
+    {
+      "word": "spring",
+      "pronounce": "sprêng",
+      "translation": "primavera, mola"
+    },
+    {
+      "word": "observe",
+      "pronounce": "âbzârv",
+      "translation": "observar"
+    },
+    {
+      "word": "child",
+      "pronounce": "tchaild",
+      "translation": "criança"
+    },
+    {
+      "word": "straight",
+      "pronounce": "streit",
+      "translation": "reto"
+    },
+    {
+      "word": "consonant",
+      "pronounce": "cansânânt",
+      "translation": "consoante"
+    },
+    {
+      "word": "nation",
+      "pronounce": "neishân",
+      "translation": "nação"
+    },
+    {
+      "word": "dictionary",
+      "pronounce": "dêkshânâri",
+      "translation": "dicionário"
+    },
+    {
+      "word": "milk",
+      "pronounce": "mêlk",
+      "translation": "leite"
+    },
+    {
+      "word": "speed",
+      "pronounce": "spiid",
+      "translation": "velocidade"
+    },
+    {
+      "word": "method",
+      "pronounce": "méthâd",
+      "translation": "método"
+    },
+    {
+      "word": "organ",
+      "pronounce": "órgân",
+      "translation": "órgão"
+    },
+    {
+      "word": "pay",
+      "pronounce": "pei",
+      "translation": "pagar"
+    },
+    {
+      "word": "age",
+      "pronounce": "eij",
+      "translation": "idade"
+    },
+    {
+      "word": "section",
+      "pronounce": "sekshân",
+      "translation": "seção"
+    },
+    {
+      "word": "dress",
+      "pronounce": "dres",
+      "translation": "vestido"
+    },
+    {
+      "word": "cloud",
+      "pronounce": "claud",
+      "translation": "nuvem"
+    },
+    {
+      "word": "surprise",
+      "pronounce": "sârpraiz",
+      "translation": "surpresa"
+    },
+    {
+      "word": "quiet",
+      "pronounce": "quait",
+      "translation": "quieto"
+    },
+    {
+      "word": "stone",
+      "pronounce": "stoun",
+      "translation": "pedra"
+    },
+    {
+      "word": "tiny",
+      "pronounce": "taini",
+      "translation": "minúsculo"
+    },
+    {
+      "word": "climb",
+      "pronounce": "claim",
+      "translation": "escalar"
+    },
+    {
+      "word": "cool",
+      "pronounce": "cuul",
+      "translation": "frio"
+    },
+    {
+      "word": "design",
+      "pronounce": "dêzain",
+      "translation": "desenho"
+    },
+    {
+      "word": "poor",
+      "pronounce": "pôr",
+      "translation": "pobre"
+    },
+    {
+      "word": "lot",
+      "pronounce": "lót",
+      "translation": "muito, lote"
+    },
+    {
+      "word": "experiment",
+      "pronounce": "eksperâmânt",
+      "translation": "experimento"
+    },
+    {
+      "word": "bottom",
+      "pronounce": "battâm",
+      "translation": "baixo"
+    },
+    {
+      "word": "key",
+      "pronounce": "kii",
+      "translation": "chave"
+    },
+    {
+      "word": "iron",
+      "pronounce": "airn",
+      "translation": "ferro"
+    },
+    {
+      "word": "single",
+      "pronounce": "sêngâl",
+      "translation": "só, solteiro"
+    },
+    {
+      "word": "stick",
+      "pronounce": "stêk",
+      "translation": "vareta, fincar"
+    },
+    {
+      "word": "flat",
+      "pronounce": "flét",
+      "translation": "achatado, plano"
+    },
+    {
+      "word": "twenty",
+      "pronounce": "tuenti",
+      "translation": "vinte"
+    },
+    {
+      "word": "skin",
+      "pronounce": "skên",
+      "translation": "pele"
+    },
+    {
+      "word": "smile",
+      "pronounce": "smail",
+      "translation": "sorriso"
+    },
+    {
+      "word": "crease",
+      "pronounce": "criis",
+      "translation": "ruga"
+    },
+    {
+      "word": "hole",
+      "pronounce": "rroul",
+      "translation": "buraco"
+    },
+    {
+      "word": "trade",
+      "pronounce": "treid",
+      "translation": "comércio"
+    },
+    {
+      "word": "melody",
+      "pronounce": "melâdi",
+      "translation": "melodia"
+    },
+    {
+      "word": "trip",
+      "pronounce": "trêp",
+      "translation": "viajar, passeio"
+    },
+    {
+      "word": "office",
+      "pronounce": "afâs",
+      "translation": "escritório, função"
+    },
+    {
+      "word": "receive",
+      "pronounce": "riciiv",
+      "translation": "receber"
+    },
+    {
+      "word": "row",
+      "pronounce": "rou",
+      "translation": "remar, fila"
+    },
+    {
+      "word": "mouth",
+      "pronounce": "mauth",
+      "translation": "boca"
+    },
+    {
+      "word": "exact",
+      "pronounce": "igzéct",
+      "translation": "exato"
+    },
+    {
+      "word": "symbol",
+      "pronounce": "sêmbâl",
+      "translation": "símbol"
+    },
+    {
+      "word": "die",
+      "pronounce": "dai",
+      "translation": "morrer"
+    },
+    {
+      "word": "least",
+      "pronounce": "liist",
+      "translation": "menos"
+    },
+    {
+      "word": "trouble",
+      "pronounce": "trâbâl",
+      "translation": "preocupação"
+    },
+    {
+      "word": "shout",
+      "pronounce": "shaut",
+      "translation": "gritar"
+    },
+    {
+      "word": "except",
+      "pronounce": "êkscept",
+      "translation": "exceto"
+    },
+    {
+      "word": "wrote",
+      "pronounce": "rout",
+      "translation": "escrito"
+    },
+    {
+      "word": "seed",
+      "pronounce": "siid",
+      "translation": "semente"
+    },
+    {
+      "word": "tone",
+      "pronounce": "toun",
+      "translation": "tom"
+    },
+    {
+      "word": "join",
+      "pronounce": "join",
+      "translation": "juntar"
+    },
+    {
+      "word": "suggest",
+      "pronounce": "sâgjest",
+      "translation": "sugerir"
+    },
+    {
+      "word": "clean",
+      "pronounce": "cliin",
+      "translation": "limpo"
+    },
+    {
+      "word": "break",
+      "pronounce": "breik",
+      "translation": "quebrar"
+    },
+    {
+      "word": "lady",
+      "pronounce": "leidi",
+      "translation": "dama"
+    },
+    {
+      "word": "yard",
+      "pronounce": "yard",
+      "translation": "jarda, quintal"
+    },
+    {
+      "word": "rise",
+      "pronounce": "raiz",
+      "translation": "levantar"
+    },
+    {
+      "word": "bad",
+      "pronounce": "béd",
+      "translation": "mal"
+    },
+    {
+      "word": "blow",
+      "pronounce": "blou",
+      "translation": "assoprar"
+    },
+    {
+      "word": "oil",
+      "pronounce": "oil",
+      "translation": "óleo, petróleo"
+    },
+    {
+      "word": "blood",
+      "pronounce": "blâd",
+      "translation": "sangue"
+    },
+    {
+      "word": "touch",
+      "pronounce": "tâtch",
+      "translation": "tocar"
+    },
+    {
+      "word": "grew",
+      "pronounce": "gruu",
+      "translation": "crescido"
+    },
+    {
+      "word": "cent",
+      "pronounce": "cent",
+      "translation": "centavo"
+    },
+    {
+      "word": "mix",
+      "pronounce": "mêks",
+      "translation": "mistura"
+    },
+    {
+      "word": "team",
+      "pronounce": "tiim",
+      "translation": "grupo"
+    },
+    {
+      "word": "wire",
+      "pronounce": "uair",
+      "translation": "arame"
+    },
+    {
+      "word": "cost",
+      "pronounce": "cóst",
+      "translation": "custo"
+    },
+    {
+      "word": "lost",
+      "pronounce": "lóst",
+      "translation": "perdido"
+    },
+    {
+      "word": "brown",
+      "pronounce": "braun",
+      "translation": "marrom"
+    },
+    {
+      "word": "wear",
+      "pronounce": "uér",
+      "translation": "usar"
+    },
+    {
+      "word": "garden",
+      "pronounce": "gardân",
+      "translation": "jardim"
+    },
+    {
+      "word": "equal",
+      "pronounce": "iiquâl",
+      "translation": "igual"
+    },
+    {
+      "word": "sent",
+      "pronounce": "sent",
+      "translation": "enviado"
+    },
+    {
+      "word": "choose",
+      "pronounce": "tchuuz",
+      "translation": "escolher"
+    },
+    {
+      "word": "fell",
+      "pronounce": "fel",
+      "translation": "caido"
+    },
+    {
+      "word": "fit",
+      "pronounce": "fêt",
+      "translation": "ajustado"
+    },
+    {
+      "word": "flow",
+      "pronounce": "flou",
+      "translation": "correr, corrente"
+    },
+    {
+      "word": "fair",
+      "pronounce": "fér",
+      "translation": "feira, claro"
+    },
+    {
+      "word": "bank",
+      "pronounce": "bénk",
+      "translation": "banco"
+    },
+    {
+      "word": "collect",
+      "pronounce": "câlect",
+      "translation": "recolher, pagar"
+    },
+    {
+      "word": "save",
+      "pronounce": "seiv",
+      "translation": "salvar"
+    },
+    {
+      "word": "control",
+      "pronounce": "cântroul",
+      "translation": "controle"
+    },
+    {
+      "word": "decimal",
+      "pronounce": "dêsêmâl",
+      "translation": "decimal"
+    },
+    {
+      "word": "gentle",
+      "pronounce": "jentâl",
+      "translation": "gentil"
+    },
+    {
+      "word": "woman",
+      "pronounce": "uômân",
+      "translation": "mulher"
+    },
+    {
+      "word": "captain",
+      "pronounce": "képtân",
+      "translation": "capitão"
+    },
+    {
+      "word": "practice",
+      "pronounce": "précttâs",
+      "translation": "prática"
+    },
+    {
+      "word": "separate",
+      "pronounce": "sepârât",
+      "translation": "separado"
+    },
+    {
+      "word": "difficult",
+      "pronounce": "dêfêcâlt",
+      "translation": "difícil"
+    },
+    {
+      "word": "doctor",
+      "pronounce": "dactâr",
+      "translation": "doutor"
+    },
+    {
+      "word": "please",
+      "pronounce": "pliiz",
+      "translation": "por-favor, agradar"
+    },
+    {
+      "word": "protect",
+      "pronounce": "prâtect",
+      "translation": "proteger"
+    },
+    {
+      "word": "noon",
+      "pronounce": "nuun",
+      "translation": "meio-dia"
+    },
+    {
+      "word": "whose",
+      "pronounce": "rruuz",
+      "translation": "cujo"
+    },
+    {
+      "word": "locate",
+      "pronounce": "loukeit",
+      "translation": "localizar"
+    },
+    {
+      "word": "ring",
+      "pronounce": "rêng",
+      "translation": "anel, tocar"
+    },
+    {
+      "word": "character",
+      "pronounce": "kérêktâr",
+      "translation": "caráter, personagem"
+    },
+    {
+      "word": "insect",
+      "pronounce": "ênsect",
+      "translation": "inseto"
+    },
+    {
+      "word": "caught",
+      "pronounce": "cót",
+      "translation": "pego"
+    },
+    {
+      "word": "period",
+      "pronounce": "pêriiâd",
+      "translation": "período"
+    },
+    {
+      "word": "indicate",
+      "pronounce": "êndêkeit",
+      "translation": "indicar"
+    },
+    {
+      "word": "radio",
+      "pronounce": "reidiiou",
+      "translation": "rádio"
+    },
+    {
+      "word": "spoke",
+      "pronounce": "spouk",
+      "translation": "falado, raio"
+    },
+    {
+      "word": "atom",
+      "pronounce": "étâm",
+      "translation": "átomo"
+    },
+    {
+      "word": "human",
+      "pronounce": "rriumân",
+      "translation": "humano"
+    },
+    {
+      "word": "history",
+      "pronounce": "rrêstâri",
+      "translation": "história"
+    },
+    {
+      "word": "effect",
+      "pronounce": "êfect",
+      "translation": "efeito"
+    },
+    {
+      "word": "electric",
+      "pronounce": "êlektrêk",
+      "translation": "elétrico"
+    },
+    {
+      "word": "expect",
+      "pronounce": "ikspekt",
+      "translation": "esperar"
+    },
+    {
+      "word": "crop",
+      "pronounce": "crap",
+      "translation": "colheita"
+    },
+    {
+      "word": "modern",
+      "pronounce": "madârn",
+      "translation": "moderno"
+    },
+    {
+      "word": "element",
+      "pronounce": "elêmânt",
+      "translation": "elemento"
+    },
+    {
+      "word": "hit",
+      "pronounce": "rrêt",
+      "translation": "acertar"
+    },
+    {
+      "word": "student",
+      "pronounce": "stuudânt",
+      "translation": "estudante"
+    },
+    {
+      "word": "corner",
+      "pronounce": "córnâr",
+      "translation": "esquina"
+    },
+    {
+      "word": "party",
+      "pronounce": "party",
+      "translation": "partido, festa"
+    },
+    {
+      "word": "supply",
+      "pronounce": "sâplai",
+      "translation": "suprir"
+    },
+    {
+      "word": "bone",
+      "pronounce": "boun",
+      "translation": "osso"
+    },
+    {
+      "word": "rail",
+      "pronounce": "reil",
+      "translation": "grade, trilho"
+    },
+    {
+      "word": "imagine",
+      "pronounce": "êmédjân",
+      "translation": "imaginar"
+    },
+    {
+      "word": "provide",
+      "pronounce": "prâvaid",
+      "translation": "fornecer"
+    },
+    {
+      "word": "agree",
+      "pronounce": "âgrii",
+      "translation": "concordar"
+    },
+    {
+      "word": "thus",
+      "pronounce": "dhâs",
+      "translation": "assim"
+    },
+    {
+      "word": "capital",
+      "pronounce": "képêtâl",
+      "translation": "capital"
+    },
+    {
+      "word": "won't",
+      "pronounce": "uount",
+      "translation": "não-vai"
+    },
+    {
+      "word": "chair",
+      "pronounce": "tchér",
+      "translation": "cadeira"
+    },
+    {
+      "word": "danger",
+      "pronounce": "deindjâr",
+      "translation": "perigo"
+    },
+    {
+      "word": "fruit",
+      "pronounce": "fruut",
+      "translation": "fruta"
+    },
+    {
+      "word": "rich",
+      "pronounce": "rêtch",
+      "translation": "rico"
+    },
+    {
+      "word": "thick",
+      "pronounce": "thêk",
+      "translation": "grosso"
+    },
+    {
+      "word": "soldier",
+      "pronounce": "souldjãr",
+      "translation": "soldado"
+    },
+    {
+      "word": "process",
+      "pronounce": "prouces",
+      "translation": "processo"
+    },
+    {
+      "word": "operate",
+      "pronounce": "apâreit",
+      "translation": "operar"
+    },
+    {
+      "word": "guess",
+      "pronounce": "ghes",
+      "translation": "adivinhar"
+    },
+    {
+      "word": "necessary",
+      "pronounce": "nesâséri",
+      "translation": "necessário"
+    },
+    {
+      "word": "sharp",
+      "pronounce": "sharp",
+      "translation": "agudo, sustenido"
+    },
+    {
+      "word": "wing",
+      "pronounce": "uêng",
+      "translation": "asa"
+    },
+    {
+      "word": "create",
+      "pronounce": "crieit",
+      "translation": "criar"
+    },
+    {
+      "word": "neighbor",
+      "pronounce": "neibâr",
+      "translation": "vizinho"
+    },
+    {
+      "word": "wash",
+      "pronounce": "uósh",
+      "translation": "lavar"
+    },
+    {
+      "word": "bat",
+      "pronounce": "bét",
+      "translation": "morcego, bastão"
+    },
+    {
+      "word": "rather",
+      "pronounce": "raadhâr",
+      "translation": "de-preferência"
+    },
+    {
+      "word": "crowd",
+      "pronounce": "craud",
+      "translation": "multidão"
+    },
+    {
+      "word": "corn",
+      "pronounce": "córn",
+      "translation": "milho"
+    },
+    {
+      "word": "compare",
+      "pronounce": "câmpér",
+      "translation": "comparar"
+    },
+    {
+      "word": "poem",
+      "pronounce": "pouêm",
+      "translation": "poema"
+    },
+    {
+      "word": "string",
+      "pronounce": "strêng",
+      "translation": "corda"
+    },
+    {
+      "word": "bell",
+      "pronounce": "beól",
+      "translation": "sino"
+    },
+    {
+      "word": "depend",
+      "pronounce": "dêpend",
+      "translation": "depender"
+    },
+    {
+      "word": "meat",
+      "pronounce": "miit",
+      "translation": "carne"
+    },
+    {
+      "word": "rub",
+      "pronounce": "râb",
+      "translation": "esfregar"
+    },
+    {
+      "word": "tube",
+      "pronounce": "tuub",
+      "translation": "tubo, tv"
+    },
+    {
+      "word": "famous",
+      "pronounce": "feimâs",
+      "translation": "famoso"
+    },
+    {
+      "word": "stream",
+      "pronounce": "striim",
+      "translation": "corrente"
+    },
+    {
+      "word": "fear",
+      "pronounce": "fiir",
+      "translation": "medo, temer"
+    },
+    {
+      "word": "thin",
+      "pronounce": "thên",
+      "translation": "fino, magro"
+    },
+    {
+      "word": "triangle",
+      "pronounce": "traiéngâl",
+      "translation": "triângulo"
+    },
+    {
+      "word": "planet",
+      "pronounce": "plénât",
+      "translation": "planeta"
+    },
+    {
+      "word": "hurry",
+      "pronounce": "rrâri",
+      "translation": "pressa"
+    },
+    {
+      "word": "chief",
+      "pronounce": "chiif",
+      "translation": "chefe"
+    },
+    {
+      "word": "clock",
+      "pronounce": "clak",
+      "translation": "relógio"
+    },
+    {
+      "word": "mine",
+      "pronounce": "main",
+      "translation": "meu, mina"
+    },
+    {
+      "word": "tie",
+      "pronounce": "tai",
+      "translation": "amarrar"
+    },
+    {
+      "word": "enter",
+      "pronounce": "enttâr",
+      "translation": "entrar"
+    },
+    {
+      "word": "major",
+      "pronounce": "meidjâr",
+      "translation": "maior, major"
+    },
+    {
+      "word": "fresh",
+      "pronounce": "fresh",
+      "translation": "fresco"
+    },
+    {
+      "word": "search",
+      "pronounce": "sârtch",
+      "translation": "buscar"
+    },
+    {
+      "word": "send",
+      "pronounce": "send",
+      "translation": "enviar"
+    },
+    {
+      "word": "yellow",
+      "pronounce": "yelou",
+      "translation": "amarelo"
+    },
+    {
+      "word": "gun",
+      "pronounce": "gân",
+      "translation": "arma"
+    },
+    {
+      "word": "rose",
+      "pronounce": "rouz",
+      "translation": "rosa, levantado"
+    },
+    {
+      "word": "allow",
+      "pronounce": "âlau",
+      "translation": "permitir"
+    },
+    {
+      "word": "print",
+      "pronounce": "prênt",
+      "translation": "imprimir"
+    },
+    {
+      "word": "dead",
+      "pronounce": "ded",
+      "translation": "morto"
+    },
+    {
+      "word": "spot",
+      "pronounce": "spat",
+      "translation": "ponto"
+    },
+    {
+      "word": "desert",
+      "pronounce": "dêzârt",
+      "translation": "deserto"
+    },
+    {
+      "word": "suit",
+      "pronounce": "suut",
+      "translation": "terno"
+    },
+    {
+      "word": "current",
+      "pronounce": "cârânt",
+      "translation": "atual"
+    },
+    {
+      "word": "lift",
+      "pronounce": "lêft",
+      "translation": "levantar"
+    },
+    {
+      "word": "continue",
+      "pronounce": "cântêniu",
+      "translation": "continuar"
+    },
+    {
+      "word": "block",
+      "pronounce": "blak",
+      "translation": "bloco"
+    },
+    {
+      "word": "chart",
+      "pronounce": "tchart",
+      "translation": "gráfico"
+    },
+    {
+      "word": "hat",
+      "pronounce": "rrét",
+      "translation": "chapéu"
+    },
+    {
+      "word": "sell",
+      "pronounce": "sel",
+      "translation": "vender"
+    },
+    {
+      "word": "success",
+      "pronounce": "sâkses",
+      "translation": "sucesso"
+    },
+    {
+      "word": "company",
+      "pronounce": "câmpâni",
+      "translation": "companhia, empresa"
+    },
+    {
+      "word": "subtract",
+      "pronounce": "sâbtréct",
+      "translation": "subtrair"
+    },
+    {
+      "word": "event",
+      "pronounce": "ivent",
+      "translation": "evento"
+    },
+    {
+      "word": "particular",
+      "pronounce": "partêkiâlar",
+      "translation": "especial"
+    },
+    {
+      "word": "deal",
+      "pronounce": "diil",
+      "translation": "negócio"
+    },
+    {
+      "word": "term",
+      "pronounce": "târm",
+      "translation": "termo, período"
+    },
+    {
+      "word": "opposite",
+      "pronounce": "apâzât",
+      "translation": "oposto"
+    },
+    {
+      "word": "wife",
+      "pronounce": "uaif",
+      "translation": "esposa"
+    },
+    {
+      "word": "shoe",
+      "pronounce": "shuu",
+      "translation": "sapato"
+    },
+    {
+      "word": "shoulder",
+      "pronounce": "shouldâr",
+      "translation": "ombro"
+    },
+    {
+      "word": "spread",
+      "pronounce": "spred",
+      "translation": "espalhar"
+    },
+    {
+      "word": "arrange",
+      "pronounce": "âreindj",
+      "translation": "arranjar"
+    },
+    {
+      "word": "camp",
+      "pronounce": "kémp",
+      "translation": "campo"
+    },
+    {
+      "word": "invent",
+      "pronounce": "ênvent",
+      "translation": "inventar"
+    },
+    {
+      "word": "cotton",
+      "pronounce": "catân",
+      "translation": "algodão"
+    },
+    {
+      "word": "born",
+      "pronounce": "bórn",
+      "translation": "nascido"
+    },
+    {
+      "word": "determine",
+      "pronounce": "dêtârmân",
+      "translation": "determinar"
+    },
+    {
+      "word": "quart",
+      "pronounce": "quórt",
+      "translation": "quarto(medida)"
+    },
+    {
+      "word": "nine",
+      "pronounce": "nain",
+      "translation": "nove"
+    },
+    {
+      "word": "truck",
+      "pronounce": "trâk",
+      "translation": "caminhão"
+    },
+    {
+      "word": "noise",
+      "pronounce": "nóiz",
+      "translation": "barulho"
+    },
+    {
+      "word": "level",
+      "pronounce": "levâl",
+      "translation": "nível"
+    },
+    {
+      "word": "chance",
+      "pronounce": "tchéns",
+      "translation": "chance, acaso"
+    },
+    {
+      "word": "gather",
+      "pronounce": "ghédhâr",
+      "translation": "juntar"
+    },
+    {
+      "word": "shop",
+      "pronounce": "shap",
+      "translation": "loja"
+    },
+    {
+      "word": "stretch",
+      "pronounce": "stretch",
+      "translation": "alcance"
+    },
+    {
+      "word": "throw",
+      "pronounce": "throu",
+      "translation": "arremessar"
+    },
+    {
+      "word": "shine",
+      "pronounce": "shain",
+      "translation": "brilhar"
+    },
+    {
+      "word": "property",
+      "pronounce": "prapâtti",
+      "translation": "propriedade"
+    },
+    {
+      "word": "column",
+      "pronounce": "calâm",
+      "translation": "coluna"
+    },
+    {
+      "word": "molecule",
+      "pronounce": "malêkiul",
+      "translation": "molécula"
+    },
+    {
+      "word": "select",
+      "pronounce": "sêlect",
+      "translation": "selecionar"
+    },
+    {
+      "word": "wrong",
+      "pronounce": "róng",
+      "translation": "errado"
+    },
+    {
+      "word": "gray",
+      "pronounce": "grei",
+      "translation": "cinza"
+    },
+    {
+      "word": "repeat",
+      "pronounce": "rêpiit",
+      "translation": "repetir"
+    },
+    {
+      "word": "require",
+      "pronounce": "rêquair",
+      "translation": "exigir"
+    },
+    {
+      "word": "broad",
+      "pronounce": "bród",
+      "translation": "amplo"
+    },
+    {
+      "word": "prepare",
+      "pronounce": "prêpér",
+      "translation": "preparar"
+    },
+    {
+      "word": "salt",
+      "pronounce": "sólt",
+      "translation": "sal"
+    },
+    {
+      "word": "nose",
+      "pronounce": "nouz",
+      "translation": "nariz"
+    },
+    {
+      "word": "plural",
+      "pronounce": "plôrâl",
+      "translation": "plural"
+    },
+    {
+      "word": "anger",
+      "pronounce": "éngâr",
+      "translation": "raiva"
+    },
+    {
+      "word": "claim",
+      "pronounce": "cleim",
+      "translation": "clamar"
+    },
+    {
+      "word": "continent",
+      "pronounce": "cantânânt",
+      "translation": "continente"
+    },
+    {
+      "word": "oxygen",
+      "pronounce": "aksêdjân",
+      "translation": "oxigênio"
+    },
+    {
+      "word": "sugar",
+      "pronounce": "shuugâr",
+      "translation": "açúcar"
+    },
+    {
+      "word": "death",
+      "pronounce": "deth",
+      "translation": "morte"
+    },
+    {
+      "word": "pretty",
+      "pronounce": "prêti",
+      "translation": "belo, muito"
+    },
+    {
+      "word": "skill",
+      "pronounce": "skêl",
+      "translation": "habilidade"
+    },
+    {
+      "word": "women",
+      "pronounce": "uêmân",
+      "translation": "mulheres"
+    },
+    {
+      "word": "season",
+      "pronounce": "seezân",
+      "translation": "estação"
+    },
+    {
+      "word": "solution",
+      "pronounce": "sâlushân",
+      "translation": "solução"
+    },
+    {
+      "word": "magnet",
+      "pronounce": "mégnât",
+      "translation": "imã"
+    },
+    {
+      "word": "silver",
+      "pronounce": "sêlvãr",
+      "translation": "prata"
+    },
+    {
+      "word": "thank",
+      "pronounce": "thénk",
+      "translation": "agradecer"
+    },
+    {
+      "word": "branch",
+      "pronounce": "brénch",
+      "translation": "galho"
+    },
+    {
+      "word": "match",
+      "pronounce": "métch",
+      "translation": "competição, fósforo"
+    },
+    {
+      "word": "suffix",
+      "pronounce": "sâfêks",
+      "translation": "sufixo"
+    },
+    {
+      "word": "especially",
+      "pronounce": "êspeshâli",
+      "translation": "especialmente"
+    },
+    {
+      "word": "fig",
+      "pronounce": "fêg",
+      "translation": "figo"
+    },
+    {
+      "word": "afraid",
+      "pronounce": "âfreid",
+      "translation": "com-medo"
+    },
+    {
+      "word": "huge",
+      "pronounce": "rriudj",
+      "translation": "grande, enorme"
+    },
+    {
+      "word": "sister",
+      "pronounce": "sêstâr",
+      "translation": "irmã"
+    },
+    {
+      "word": "steel",
+      "pronounce": "stiil",
+      "translation": "aço"
+    },
+    {
+      "word": "discuss",
+      "pronounce": "dêscâs",
+      "translation": "discutir"
+    },
+    {
+      "word": "dollar",
+      "pronounce": "dalâr",
+      "translation": "dólar"
+    },
+    {
+      "word": "forward",
+      "pronounce": "fóruârd",
+      "translation": "adiante, passar adiante"
+    },
+    {
+      "word": "similar",
+      "pronounce": "sêmâlãr",
+      "translation": "semelhante"
+    },
+    {
+      "word": "guide",
+      "pronounce": "gaid",
+      "translation": "guia, guiar"
+    },
+    {
+      "word": "experience",
+      "pronounce": "êkspiiriâns",
+      "translation": "experiência"
+    },
+    {
+      "word": "score",
+      "pronounce": "scór",
+      "translation": "placar, duas-dezenas"
+    },
+    {
+      "word": "apple",
+      "pronounce": "épâl",
+      "translation": "maçã"
+    },
+    {
+      "word": "bought",
+      "pronounce": "bót",
+      "translation": "comprado"
+    },
+    {
+      "word": "led",
+      "pronounce": "led",
+      "translation": "levado"
+    },
+    {
+      "word": "colony",
+      "pronounce": "calâni",
+      "translation": "colonia"
+    },
+    {
+      "word": "pitch",
+      "pronounce": "pêtch",
+      "translation": "piche, arremeço"
+    },
+    {
+      "word": "coat",
+      "pronounce": "cout",
+      "translation": "casaco"
+    },
+    {
+      "word": "mass",
+      "pronounce": "més",
+      "translation": "massa, missa"
+    },
+    {
+      "word": "card",
+      "pronounce": "card",
+      "translation": "cartão"
+    },
+    {
+      "word": "band",
+      "pronounce": "bénd",
+      "translation": "banda"
+    },
+    {
+      "word": "rope",
+      "pronounce": "roup",
+      "translation": "corda"
+    },
+    {
+      "word": "slip",
+      "pronounce": "slêp",
+      "translation": "escorregar"
+    },
+    {
+      "word": "win",
+      "pronounce": "uên",
+      "translation": "ganhar"
+    },
+    {
+      "word": "dream",
+      "pronounce": "driim",
+      "translation": "sonho"
+    },
+    {
+      "word": "evening",
+      "pronounce": "iivnêng",
+      "translation": "noite"
+    },
+    {
+      "word": "condition",
+      "pronounce": "cândêshân",
+      "translation": "condição"
+    },
+    {
+      "word": "feed",
+      "pronounce": "fiid",
+      "translation": "alimentar"
+    },
+    {
+      "word": "tool",
+      "pronounce": "tuul",
+      "translation": "ferramenta"
+    },
+    {
+      "word": "total",
+      "pronounce": "toutãl",
+      "translation": "total"
+    },
+    {
+      "word": "basic",
+      "pronounce": "beisêk",
+      "translation": "básico"
+    },
+    {
+      "word": "smell",
+      "pronounce": "smel",
+      "translation": "cheiro"
+    },
+    {
+      "word": "valley",
+      "pronounce": "véli",
+      "translation": "vale"
+    },
+    {
+      "word": "nor",
+      "pronounce": "nór",
+      "translation": "nem"
+    },
+    {
+      "word": "double",
+      "pronounce": "dâbâl",
+      "translation": "dobro"
+    },
+    {
+      "word": "seat",
+      "pronounce": "siit",
+      "translation": "assento"
+    },
+    {
+      "word": "arrive",
+      "pronounce": "âraiv",
+      "translation": "chegar"
+    },
+    {
+      "word": "master",
+      "pronounce": "méstâr",
+      "translation": "mestre"
+    },
+    {
+      "word": "track",
+      "pronounce": "trék",
+      "translation": "trilha"
+    },
+    {
+      "word": "parent",
+      "pronounce": "pérânt",
+      "translation": "pais"
+    },
+    {
+      "word": "shore",
+      "pronounce": "shór",
+      "translation": "praia"
+    },
+    {
+      "word": "division",
+      "pronounce": "dêvêzhân",
+      "translation": "divisão"
+    },
+    {
+      "word": "sheet",
+      "pronounce": "shiit",
+      "translation": "folha, lençol"
+    },
+    {
+      "word": "substance",
+      "pronounce": "sâbstâns",
+      "translation": "substância"
+    },
+    {
+      "word": "favor",
+      "pronounce": "feivâr",
+      "translation": "favor, favorecer"
+    },
+    {
+      "word": "connect",
+      "pronounce": "cânect",
+      "translation": "conectar"
+    },
+    {
+      "word": "post",
+      "pronounce": "poast",
+      "translation": "pós, posto"
+    },
+    {
+      "word": "spend",
+      "pronounce": "spend",
+      "translation": "gastar"
+    },
+    {
+      "word": "swim",
+      "pronounce": "suêm",
+      "translation": "nadar"
+    },
+    {
+      "word": "chord",
+      "pronounce": "córd",
+      "translation": "acorde"
+    },
+    {
+      "word": "fat",
+      "pronounce": "fét",
+      "translation": "gordo"
+    },
+    {
+      "word": "glad",
+      "pronounce": "gléd",
+      "translation": "contente"
+    },
+    {
+      "word": "original",
+      "pronounce": "ârêdjânâl",
+      "translation": "original"
+    },
+    {
+      "word": "share",
+      "pronounce": "shér",
+      "translation": "parte"
+    },
+    {
+      "word": "station",
+      "pronounce": "steishân",
+      "translation": "estação"
+    },
+    {
+      "word": "dad",
+      "pronounce": "déd",
+      "translation": "papai"
+    },
+    {
+      "word": "bread",
+      "pronounce": "bréd",
+      "translation": "pão"
+    },
+    {
+      "word": "charge",
+      "pronounce": "chardj",
+      "translation": "carga, cobrança"
+    },
+    {
+      "word": "proper",
+      "pronounce": "prapâr",
+      "translation": "próprio"
+    },
+    {
+      "word": "bar",
+      "pronounce": "bar",
+      "translation": "bar, barra"
+    },
+    {
+      "word": "offer",
+      "pronounce": "afêr",
+      "translation": "oferecer"
+    },
+    {
+      "word": "segment",
+      "pronounce": "segmânt",
+      "translation": "segmento"
+    },
+    {
+      "word": "slave",
+      "pronounce": "sleiv",
+      "translation": "escravo"
+    },
+    {
+      "word": "duck",
+      "pronounce": "dâk",
+      "translation": "pato, mergulhar"
+    },
+    {
+      "word": "instant",
+      "pronounce": "ênstânt",
+      "translation": "instante"
+    },
+    {
+      "word": "market",
+      "pronounce": "markât",
+      "translation": "mercado"
+    },
+    {
+      "word": "degree",
+      "pronounce": "dêgrii",
+      "translation": "grau"
+    },
+    {
+      "word": "populate",
+      "pronounce": "papiâleit",
+      "translation": "povoar"
+    },
+    {
+      "word": "chick",
+      "pronounce": "tchêk",
+      "translation": "pintinho"
+    },
+    {
+      "word": "dear",
+      "pronounce": "diir",
+      "translation": "querido"
+    },
+    {
+      "word": "enemy",
+      "pronounce": "enâmi",
+      "translation": "inimigo"
+    },
+    {
+      "word": "reply",
+      "pronounce": "rêplai",
+      "translation": "resposta"
+    },
+    {
+      "word": "drink",
+      "pronounce": "drênk",
+      "translation": "bebida"
+    },
+    {
+      "word": "occur",
+      "pronounce": "âcâr",
+      "translation": "ocorrer"
+    },
+    {
+      "word": "support",
+      "pronounce": "sâpórt",
+      "translation": "apoiar"
+    },
+    {
+      "word": "speech",
+      "pronounce": "spiitch",
+      "translation": "discurso"
+    },
+    {
+      "word": "nature",
+      "pronounce": "neitchâr",
+      "translation": "natureza"
+    },
+    {
+      "word": "range",
+      "pronounce": "reindj",
+      "translation": "alcance, pastagem"
+    },
+    {
+      "word": "steam",
+      "pronounce": "stiim",
+      "translation": "vapor"
+    },
+    {
+      "word": "motion",
+      "pronounce": "moushân",
+      "translation": "movimento"
+    },
+    {
+      "word": "path",
+      "pronounce": "péth",
+      "translation": "caminho"
+    },
+    {
+      "word": "liquid",
+      "pronounce": "lêquâd",
+      "translation": "líquido"
+    },
+    {
+      "word": "log",
+      "pronounce": "lóg",
+      "translation": "lenha, diário"
+    },
+    {
+      "word": "meant",
+      "pronounce": "ment",
+      "translation": "significado"
+    },
+    {
+      "word": "quotient",
+      "pronounce": "quoshânt",
+      "translation": "quociente"
+    },
+    {
+      "word": "teeth",
+      "pronounce": "tiith",
+      "translation": "dentes"
+    },
+    {
+      "word": "shell",
+      "pronounce": "shel",
+      "translation": "concha"
+    },
+    {
+      "word": "neck",
+      "pronounce": "nek",
+      "translation": "pescoço"
+    },
+    {
+      "word": "dessert",
+      "pronounce": "dêssârt",
+      "translation": "sobremesa"
+    }
+  ]
