@@ -1,16 +1,13 @@
 const dictionary = require("./dictionaries/words.json");
 
 module.exports = {
-    // Retorna a quantidade de questões solicitada aleatórias
-    // Caso não passe o array com os números das questões ele gerará
-
     // Retorna uma lista com a quantidade solicitada de indexes aleatórios
     getRandomList: function (numberOfQuestions) {
         let listOfQuestions = new Set();
         while (listOfQuestions.size < numberOfQuestions) listOfQuestions.add(getRandomInt(dictionary.length))
         return Array.from(listOfQuestions)
     },
-    // passa o array com número das questões e escolha se quer que misture
+    // Retorna as questões da lista de indexes fornecida, e dá a opção de misturá-las
     getQuestions: function (questions, shuffle = false){
         let currentDictionaryNumber;
         let pairs = []
@@ -36,7 +33,7 @@ function getRandomInt(max) {
 return Math.floor(Math.random() * max)
 }
 
-function shuffleArray(array) {
+function shuffleArray(array) { 
     var currentIndex = array.length, randomIndex;
 
     // While there remain elements to shuffle...
