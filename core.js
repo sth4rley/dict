@@ -1,37 +1,49 @@
-const dictionary = require("./dictionaries/1000enptbr.json");
-
-// SEPARA O JSON EM 3 ARRAYS
-let wordList = []
-let translateList = []
-let pronunceList  = []
-
-for (var i in dictionary) {
-    wordList.push(dictionary[i].word)
-    translateList.push(dictionary[i].translation)
-    pronunceList.push(dictionary[i].pronounce)
-}
+const dictionary = require("./dictionaries/words.json");
 
 module.exports = {
-    getPairs: function () {
+    // Retorna a quantidade de questões solicitada aleatórias
+    // Caso não passe o array com os números das questões ele gerará
 
+    // Retorna uma lista com a quantidade solicitada de indexes aleatórios
+    getRandomList: function (numberOfQuestions) {
+        let listOfQuestions = new Set();
+        while (listOfQuestions.size < numberOfQuestions) listOfQuestions.add(getRandomInt(dictionary.length))
+        return Array.from(listOfQuestions)
     },
-    getFiles: function() {
-
+    // passa o array com número das questões e escolha se quer que misture
+    getQuestions: function (questions, shuffle = false){
+        let currentDictionaryNumber;
+        let pairs = []
+    
+        while (pairs.length < questions.length) {
+            currentDictionaryNumber = questions[pairs.length]
+            pairs.push({
+                word: dictionary[currentDictionaryNumber].word,
+                translation: dictionary[currentDictionaryNumber].translation,
+                pronounce: dictionary[currentDictionaryNumber].pronounce,
+                number: currentDictionaryNumber
+            })
+        }
+    
+        if (shuffle) pairs = shuffleArray(pairs)
+    
+        return pairs
     }
+
 }
 
-function getRandomInt(max){
-    return Math.floor(Math.random() * max)
+function getRandomInt(max) {
+return Math.floor(Math.random() * max)
 }
 
-function shuffleArray(array){
+function shuffleArray(array) {
     var currentIndex = array.length, randomIndex;
 
     // While there remain elements to shuffle...
     while (0 !== currentIndex) {
 
         // Pick a remaining element...
-        randomIndex = this.getRandomInt(currentIndex)
+        randomIndex = getRandomInt(currentIndex)
         currentIndex--;
 
         // And swap it with the current element.
