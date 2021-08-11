@@ -25,6 +25,15 @@ module.exports = {
         if (shuffle) pairs = shuffleArray(pairs)
     
         return pairs
+    },
+    // Retorna uma lista com as palavras e suas respectivas traduções de forma misturada.
+    getSelectableAlternatives: function (pairsArray){
+        let arrayOfAlternatives = []
+        for (i in pairsArray){
+            arrayOfAlternatives.push(pairsArray[i].word)
+            arrayOfAlternatives.push(pairsArray[i].translation)
+        }
+        return shuffleArray(arrayOfAlternatives)
     }
 
 }
