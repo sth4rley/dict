@@ -8,10 +8,10 @@ module.exports = {
         return Array.from(listOfQuestions)
     },
     // Retorna as questões da lista de indexes fornecida, e dá a opção de misturá-las
-    getQuestions: function (questions, shuffle = false){
+    getQuestions: function (questions, shuffle = false) {
         let currentDictionaryNumber;
         let pairs = []
-    
+
         while (pairs.length < questions.length) {
             currentDictionaryNumber = questions[pairs.length]
             pairs.push({
@@ -21,15 +21,15 @@ module.exports = {
                 number: currentDictionaryNumber
             })
         }
-    
+
         if (shuffle) pairs = shuffleArray(pairs)
-    
+
         return pairs
     },
     // Retorna uma lista com as palavras e suas respectivas traduções de forma misturada.
-    getSelectableAlternatives: function (pairsArray){
+    getSelectableAlternatives: function (pairsArray) {
         let arrayOfAlternatives = []
-        for (i in pairsArray){
+        for (i in pairsArray) {
             arrayOfAlternatives.push(pairsArray[i].word)
             arrayOfAlternatives.push(pairsArray[i].translation)
         }
@@ -38,24 +38,9 @@ module.exports = {
 
 }
 
-function getRandomInt(max) {
-return Math.floor(Math.random() * max)
-}
+const getRandomInt = (max) => Math.floor(Math.random() * max)
 
-function shuffleArray(array) { 
-    var currentIndex = array.length, randomIndex;
-
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
-
-        // Pick a remaining element...
-        randomIndex = getRandomInt(currentIndex)
-        currentIndex--;
-
-        // And swap it with the current element.
-        [array[currentIndex], array[randomIndex]] = [
-            array[randomIndex], array[currentIndex]];
-    }
-
-    return array;
-}
+const shuffleArray = (array) => array
+.map((value) => ({ value, sort: Math.random() }))
+.sort((a, b) => a.sort - b.sort)
+.map(({ value }) => value)
